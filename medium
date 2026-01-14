@@ -1,0 +1,4000 @@
+v2 User Testing: Treaty Generation OS And Paid Reports Issues
+v2 User Testing: USM Search Needs To Incoporate XXXX Live Split Search Changes
+V2 / V3 Bugs with Agree All Validation Errors Action
+V3 App switches forms when shouldn't be
+V3 - CacheManager issues when Saving/Loading
+V3 'Child Type' validation errors not clearing for valid child control types in Code Gen
+V3 Code Gen generating invalid unbound field warnings
+V3 Controls in Reference Lookup Forms not sizing correctly
+V3 DataChanged events getting fired multiple times via ComboBox
+V3 Data Not Reloading in Grid Combobox Columns
+V3 Diary Event Recap And Diary Event System Introduction To YYY ZZZ
+[ V3 Document ]  Document that has not been set to track revisions overwrites revision
+V3 Hour Glass Not Clearing When Shutting Down Forms
+V3 Linking - Investigate Workings / Fix bugs
+V3 Look into / Resolve Business Linking Issues
+V3 - Make BusinessObjectTagCode available in code via business object
+V3 Not / Is Predicates not working in filtering
+V3 SiPFrameworkButtonWithLabel not hiding with hidden field access
+V3 Sorting Out Bugs In Link Manager
+V3 Structure Table Column Comments Not Returning/Saving correctly
+V3 - Super Search Result Columns Not Getting Cleared/Added Correctly
+[ V3 Testing subsystem ]  Search Test enhancements
+V3 - Validation error for Child Control not clearing in Code Gen
+V3 Validation Errors Not Navigating
+Validation being skipped for all read-only fields needs to be turned off on occasions
+Validation being skipped for all read-only fields needs to be turned off on occasions
+Validation can be slow -- speed up!
+Validation Errors From Closed Forms Not Disappearing
+Validation failing
+Validations: some META_BatchJob entries should not be rolled back on failure
+Warehouse build running slow
+Warehouse Conversion To New Structure - Testing
+Webform - Demo Meeting
+Web Log File Debugging
+When switching between search and event tabs, grid becomes locked
+XLSior Backload Of Data
+XLsior Export slow on XXXX
+XXXX CCC Meeting with Manager YYY ZZZ
+XXXX CCCs UWREF correction error
+XXXX CCCs UWREF correction error
+XXXX Daily Movement Report - Insured/ReAssured Update
+XXXX Daily Movement Report - Insured/ReAssured Update
+XXXX Diary Event System Setup
+XXXX Front End Changes Required For New Field SectionUMR in table RiskSection
+XXXX Live RI Load SpeedUp Release
+XXXX LLOYDS Catastrophe code user help
+XXXX SCM Dummy Split Delete Not Working\Removing Dummy Split Data
+XXXX SCM Validation failure/ New User Notification Job created
+XXXX Split Complete not checking unsplit claims
+XXXX Super Search Saved Query Conversion To v1.10
+XXXX Test System Message Load And Validation Jobs Setup
+XXXX Test System SCM Validation Failed
+XXXX Test System UW Ref Correction Table Incorrect Entry Check
+XXXX Triangles: EUR Specified Rates of Exchange Not Applying Correctly.
+XXXX TTY RI Update
+XXXX - User Reported Stat Triangles Displaying No Figures For Last Month End
+XXXX User - YYY ZZZ can not access data from front end searches
+XXXX USM Narrative issues
+XXXX USM Narrative missing -- test other syndicates too
+XXXX v1.10 Conversion Database Setup For Overnight Conversion Script Run
+XXXX Validation errors - Suspect syndicate Line No's Claims (40009540400/60292630104)
+XXXX Vlidation failure
+XXXX /XXXX SCM Validation Failed Following Weekend Server Checks/Defragging
+YouLink HR demos for potential clients
+YouLink HR : White Labeller Support 2014 - CCC
+YYY ZZZ/ CCC Ref: 28949 Diary Event Ownership 
+YYY ZZZ helpdesk call No 42870 - Syndicate XXXX YYY ZZZ Warehouse Queries
+YYY ZZZ - Meeting to discuss XXXX conversion - 07/09/2011
+YYY ZZZ - Meeting to discuss XXXX conversion - 07/09/2011
+YYY ZZZ - Month-End  Period Close Support
+YYY ZZZ - Month End Support
+YYY ZZZ SCMS framework errors with application due to .NET installation problems
+YYY ZZZ SCMS system crashed due to errors in CCC Machine setup (Windows date/time set to 3rd of June 2007???)
+YYY ZZZ SIP-Office Machine Setup & Email Configuration
+YYY ZZZ SP fix for SIP_YYY ZZZ_GET_YYY ZZZ
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS Broker Codes Reference Data
+YYY ZZZ Synd XXXX/XXXX - Periiod Close Support
+YYY ZZZ Time in Liu - Collecting in-Laws from Airport
+YYY ZZZ Warehouse Syndicate XXXX Help YYY ZZZ Ticket Number 42650 
+Bug in SCM Search totalling
+Bug in SCM Search totalling
+YouLink HR: Remove CCC Data
+E-HR v2: CCC 2013
+E-HR v2: CCC 2013
+E-HR v2: CCC 2013
+E-HR v2 Client: CCC 2014
+E-HR v2 Client: CCC 2014
+E-HR Various Bug Fixes
+CCC_BinderManagement Development
+Investigate why the USM v3 Search Screen Quick Entry Panel is No longer Displaying Correctly
+Replace Product Manager control with simple drop down list
+Tiptree Office Fire Planning - Updating Documentation (Checking Extinguishers etc)
+User Support: When altering UW Ref, validation not kicking off before saving
+YouLink HR: Automate Demo Population From Website Request
+YouLink HR: Automate Demo Population From Website Request
+YouLink HR: Client Setup CCC
+YouLink HR: Absence Report Active Sick Employee's Causing Additional Unwanted Pages To Appear
+YouLink HR: Orphaned Contact Records - Investigate and Correct
+CCC Data Warehousing Components Email
+E-HR v2 Client: CCC 2013
+Extended Lunch
+Extended Lunch
+Extended Lunch
+YouLink HR: CCC Client Trial Setup
+YouLink HR: Release - Create Test Company - Add TOIL Parameter
+Backup Tape Change 2009/22
+Daily 10 minute meetings at CCC lobby
+Daily 10 minute meetings at CCC lobby
+Daily 10 minute meetings at CCC lobby
+Daily 10 minute meetings at CCC lobby
+Move UWRCorrection Field Access out of REF_META_FieldAccess
+Staples Run To Stanway
+Swap everyone to YouLinkHR-Direct
+Update ROE table from Exchange web site for both XXXX DEV and live
+V3 - ComboBox changes sometimes not flushed to database
+V3 - ComboBox changes sometimes not flushed to database
+Transfer The Existing User Functionality Notes from The Task System Knowledge Base
+10 Minute Stand Ups - August 2006
+3001,"Export is exporting 0's as =""0.00" in Tech Core
+Add ability to add multiple AP's and RP's
+Add Delete Fuctionality To The Document Business Object
+Add descriptions to SCM search fields
+Added new Reference Table for adding Company names to Lead Underwriter
+Add II Group and II Type as Return Fields on SCM SuperSearch
+Add II Group and II Type as Return Fields on USM SuperSearch
+Add new field to RISK for recording days of grace
+Add rounding capability to statistical control
+Add Tables Ref_Meta_Field_Access, Meta_SpecialProcessingCode To Comparator
+Allow combo box (and search control?) to be unsorted
+Allow net amount entry on manual entry USMs as well as contra items - See Plan
+Attempt to change Event on SCM Line causes fatal crash
+Attend and prepare for CCC Meeting 09-03-06.
+Backup Tape Change - 2008/36
+Backup Tape Change 2009/15
+Backup Tape Change 2009/18
+Binder Management testing and backing up
+BMS Bug - User Cannot See Lookup Buttons In SuperUser.
+BMS Bug - User Cannot See Lookup Buttons In SuperUser.
+BMS Bug - User Cannot See Lookup Buttons In SuperUser.
+BMS Skinny Dec Performance Issues
+Bordereaux breakdown calculation fix
+Cannot Add New Event - Save Fails
+Cannot find CacheStatistics when USM Category is 6 and above
+CCC Contract Meeting
+CCC - KnowledgeConnect Tender Research
+CCC - monthly review figures report support 
+CCC - rates of exchange close process
+CCC SCMS XXXX and XXXX - Licence Uploads
+CCC SCMS XXXX and XXXX - Licence Uploads
+CCC Specific Batch Job Log Report Setup And Release
+CCC - TS CAL Cost and Non Logged-In Users List Request
+CCC - USM Super Search Extension - Rollout to Live
+CCC - USM Super Search Results Query
+CCC - XLSIOR Extract/USM Validation Support
+CCC - XXXX Daily Movement PA Issue Reported
+Check SiP_Dev Running OK Following v2 to v3 XXXX Data Conversion
+Check that triangulation RI is calculated correctly (particularly RI Outstanding)
+City Interview - YYY ZZZ
+City Interview - YYY ZZZ
+Claim Metadata Updates
+Clicking on RI Reinstatement Tab causes fatal crash
+Client Support: Ldex Box Failure
+CMS progress meeting
+Code Download-Editor for CCC website.
+Code Generator: Calculation Triggers
+Comparator - A Lot Of Table Index Transfers Fail
+Comparator - Checks need to be separated out
+Crash On Period Close When No Rows Already In REF_PeriodClose
+Create an SiPDecisionTable Object To Aid Complex Decision Code Readability
+Creating new Database and instance of SCMS for CCC
+Daily server checks 2007/31
+Daily server checks 2007/35
+Daily Server Checks - Week 36
+Default Link Panel On Right Side of Screens
+Demo Binder Management System
+Demo'd the System to CCC Underwriters - Requested by YYY ZZZ
+Development Meeting With YYY ZZZ - Cancelled, Replaced By Task 4704.
+Diary Event - Lookup Description Should Be Read Only - But Button Should Be Enabled
+Diary Event Recipient List Failing To Populate
+Diary event reminders causing exeptions if network connection becomes unavailable
+Diary Event Reminders Popping Up While Validation In Progress Via Fronted-End Causes exception
+Diary Event System - Cannot Add Diary Event To RI
+Difference Count in SiPComparator is incorrect
+Discussion With CCC about Bordereaux Months
+Document System - Files Identical Message Will Not Allow Check In.
+Double-Click to open Risk from SCM Line doesn't work on UWRef field
+Error in Outstanding Figures in XXXX Triangles -- investigate
+Estimating Bordereau Schedule Diary Event Work 
+FAC/Treaty/Block Ind Required On Message Summary and Individual Detail Screens
+Find out Claims Depts requirements for SCM messaging/display
+Fix Period Close for USM - No Suspense Items Exist, Reconciliation Report Reviewed and Last Message Recieved
+Fix YYY ZZZ's Laptop - Remove trojan
+Flag RI on SCM Message Summary screen using metadata RI application rules
+Flex Mobile - Meeting to discuss requirement for new tasks
+Flex Mobile - Repair Contact Tel- Need to populate field from Customer details
+Flex Mobile -Sale Not Saved With Product, Added Product To Sale For YYY ZZZ (Site Visit)
+Flex mobile - Sales dont seem to update the commitment date within the customer screen. 
+Group Control behaves wrongly when no items selected
+HQ2 Server Down - Get back up via CCC helpdesk, load messages when up
+Hybrid Form Needs More Informative Close Messages For Modified Objects
+Implement Final Figure Triangles
+Implement true As-At triangles
+Import SCM exchange rate data into REF_CurrencyExcchangeRateHistory
+Improve resolution of images in listbox
+Internal Discussions and Training, sales concerning YouLink HR
+Investigate Backup Problem on SQL1
+Investigate CRESTA Code mapping database and components
+Investigate SSL errors on SIPEXC001 POP3 connection.
+Investigating XXXX Figure Book Discrepencies
+Line Statistics - Show detail and tool tip
+Lloyds Currency Only Triangles
+LossDateFrom on claim - respond to CCC's request on how we populated it
+LPSO Date decoding broken on the SCM
+LTD-HQ1 Died Causing Suspect XXXX Warehouse Recovery
+Marketing Meeting - 10th September 2008
+Meeting at Lombard Street for Binder Management
+Meeting re message transport and networking issues
+Meeting re message transport and networking issues
+Meeting with YYY ZZZ, Mgt Consultant
+Microsoft Partner Program - VAT number issue
+Move XXXX Warehouse to Live
+New CCC System Users Setup
+New Step by Step guide on how to add content to drop downs. Not in manual.
+Notes control not working with grid deletes
+On sorting a grid the grid loses its Field Access colours 
+On sorting a grid the grid loses its Field Access colours 
+Open UWRCorrection from Menu cause error - missing column
+Preparation for Task System Demo
+Prepare for Link Manager Technical Meeting
+Problem with export file dialogue boxes in Versions 2 and 3
+Process latest Microsoft security updates.
+Reinstate SiP Auto Cleardown of SiP-DEV Shared File Area
+Release current TEST onto LIVE plus small enhancements
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Application To Live -- XXXX Synd
+RI Figures/Nett Position Differs On Search Screen To Claim Entry Screen.
+Risk Broker Account Name refresh bug
+Risk History Screen Broken
+Risk Search not working with Risk Statistical Codes
+RITC - Meeting with YYY ZZZ To Discuss USM Super Search Update Requirments
+SCM Claim Search: Message Reference To Include User Number as Prefix.
+SCM Events - If Two New Events Added At Same Time Claim Will Not Save.
+SCM Line Update Of Event Not Showing New Event Information
+SCM Screen Tab Ordering Needs Setting
+Seach control obj - sort order
+Search Control Object
+Section Premium, cannot delete any row, only add. BPI completely Read Only
+Setting up YYY ZZZ's machine
+Should have a list to show which meta and ref tables are checked in Comparator
+SiP Format Figures Book: rows out of order
+SiP Management Meeting
+Spare router drop-off
+SP_RI_CALCULATE fails due to RILayerUniqueID having two possible choices
+Statistical Figures Books fail with an SQL syntax error
+Stats control title is poorly formatted
+Syndicate XXXX data Warehouse Advice - provide sample script for Claim- UWRef's
+Synd XXXX - Close SCM For Months Prior To 2005
+Synd XXXX - Close USM For Months Prior To 2005
+Synd XXXX: Remove RI Manual Checked Period Close Item.
+Synd XXXX - SCM 60017410794 XL RI Data Not Matching Intech.
+Synd XXXX - SCM 60130560594 XL RI Data Not Matching Intech.
+Synd XXXX - SCM 60142590593 XL RI Data Not Matching Intech.
+Synd XXXX - SCM 90017511099 XL RI Data Not Matching Intech.
+Tables Return In Reverse Order On Comparator
+Tag property on History Tab Page disappears after code-gen build
+Triangulation : allow all currencies to be shown
+Triangulation Figures Look Incorrect
+UGD - Updating LAN/WAN Documentation
+Update Advised Lloyd's Claim Position for 60061651298
+User Actions Firing Incorrectly
+User Support: Aid XXXX Syndicate Close Process
+User Support - Helping YYY ZZZ to see why Risk is not saving
+USM Contra, warning about GetActive.
+USM's not showing RI Summary after load up
+USM_UMRTABLE  Data Conversion  XXXX
+v2 Test System SCM Message Load Failing On XXXX Test and XXXX Test
+v2 User Testing: Diary Event Creator Should Become Owner
+v2 user testing: SCM Not Opening On XXXX User Screen Where His Windows DPI Set To Large
+v2 user testing: SCM Not Opening On XXXX User Screen Where His Windows DPI Set To Large
+v2 user testing: SCM Not Opening On XXXX User Screen Where His Windows DPI Set To Large
+v2 User Testing: SCM Validation Errors Showing Accounting Month Not Movement Date
+V3 Risk Port - Removing all RDC code
+Validation Error Navigation Filtering Fails
+When Updating Child Risk, Master Risk must also be saved with user message.
+Work on PolicyPatrol Web Interface
+XXXX - Aid YYY ZZZ With Adding Manual Claims and Movements
+XXXX - Aid YYY ZZZ With Adding Manual Claims and Movements
+XXXX Duplicate Lines Appearing
+XXXX Front end syndicate figure splits presentation bug
+XXXX Has A Claim Which Displays No Movements
+XXXX RI Manual Check Error: Not All Claims Flagged By SCM Validation
+XXXX RI Manual Check Error: Not All Claims Flagged By SCM Validation
+XXXX XLsior Export doesn't seem to be including all figures -- investigate and fix
+XXXX XLsior Export Fails
+YouLink HR : Client Support 2014 - CCC
+YYY ZZZ - XXXX and XXXX Close Support
+YYY ZZZ XXXX/XXXX Period Close Support
+YYY ZZZ - XXXX/XXXX Support - Month-End Message Load Issue
+Appraisal Business Analysis
+Framework Document Sub System Upgraded To Use New Menu Action Mechanisms
+Limit and Excess Qualifiers (or Basis as it was known)
+Problem running SQL Block - gets truncated when shouldn't be
+Problem running SQL Block - gets truncated when shouldn't be
+Tiptree Office: Picking Up Key, Checking for Damage, Resecuring Office
+Various V3 Performance Improvements
+YouLink HR: Skills Tweak and Obscure Bug Fix
+SIPSQL002 Data Drive Very Close To Going Full - Emergency Action Required
+VAT Return and Expenses
+CCC - Data Mart - Meeting/emails to discuss updates required.
+Event Search Figures bug XXXX SCMS
+Event Search Figures bug XXXX SCMS
+Outwards RI Reference - Difference On Live And Test.
+Outwards RI Reference - Difference On Live And Test.
+YouLink HR: Add Last Review Data and Reviewed Amount onto the Annual Salary Report
+Holiday Calculations Not Taking Account of HOLBF Absence Entries
+YouLinkHR CCC Adjustments Release
+YouLink HR: Online Holiday Allowance Report
+CCC/IDOSHI Web Site Contact Us Page Bug
+CCC/IDOSHI Web Site Contact Us Page Bug
+WebControl Enhancement
+Create YouLink HR Demo on LIVE
+Forgotten Login Details on E-HR for CCC
+Recursive File Line Counter Spike
+Install Office 2010 Suite incl Project & Visio
+Move Current Financial Fields Under The Employment Period
+CCC SCM & USM Data Extract
+SQL Bulk Text Fetch Utility Tool
+Testing SCMS
+YYY ZZZ Interview - City Student 2008
+YYY ZZZ Interview - City Student 2008
+Code Generator: User Help/Technical Notes Read Only Issue
+Setting Up SiP Cloud
+5500 Conversion - Meeting With YYY ZZZ And YYY ZZZ On Conversion Tasks, Schedules
+5500 Conversion - Meeting With YYY ZZZ And YYY ZZZ On Conversion Tasks, Schedules
+Add A Split To Multiple Line Claims Does Not Save-- See Plan
+Added new Class of Business Codes
+Adding extra column of Data to IPT Table and calculating overall Percentage
+Adding More Risk Reference Data - Premiums
+Adding more user friendly messages when saving Reference Data
+Adding new bordx details to claim  60141540208 synd XXXX
+Adding reserves to split totals
+Adding XXXX Peril codes to Statistics XXXX
+Add Manual USM Treaty Transaction Fails
+Add New Contact Fields to Coverholder
+Add New Document Types for BMS Requested by YYY ZZZ
+Add Status field to Staff Object
+Add Validation To SiPTagLookupFormViaCheckBox/SiPTagLookupComboBoxButton
+Add Validation To SiPTagLookupFormViaCheckBox/SiPTagLookupComboBoxButton
+Add YYY ZZZ and YYY ZZZ to website staff section
+Admin tasks for May 2009
+Admin tasks for May 2009
+Aid Synd XXXX Auditor
+Allow code generator to generate business validation rule code stubs
+Allow code generator to generate business validation rule code stubs
+Allow DataChanged Mechanism to Cope with Byte Array Data
+Allow fixed alignment of text box labels when label is aligned to the left
+Allow Staff Lookups from Ticketing Repayment Object
+ALT+F4 Not Working When Report Is Active
+Anaylsis of DAD data to be migrated
+Arranging Painter for Tiptree Office
+Arrowing Within Combo's Locks Task
+Attempt to set a column to IDENTITY fails (syntax error)
+Attend CCC Meeting
+Auto Generation Of History of Changes Functionality in Code Generator
+Backing up Laptop to upgrade to Win XP Pro
+Backing up PC to SiP-Cloud (April)
+Backup Tape Change 2009/14
+Backup Tape Change 2009/21
+Backup Tape Change 2009/44
+Backup Tape Change 2010/31
+BMS Client Meeting
+BMS Meeting with YYY ZZZ and YYY ZZZ at SiP Offices (12/03/08)
+BMS Project planning
+BNI 1-2-1 meeting with YYY ZZZ
+BNI 1-2-1 meeting with YYY ZZZ from CCC
+BNI 1-2-1 meeting with YYY ZZZ from the CCC
+BNI 1-2-1 with YYY ZZZ
+BNI Evening networking Event at CCC - West End 6-8pm
+BNI meeting 22/09/10
+BNI presentation preparation
+Board Meeting
+ broker order's XXXX
+Business Link London Meeting - YYY ZZZ
+Catching up on emails/responding to emails on return from hoilday
+Catching up on YYY ZZZ's Web Service progress
+Catch up meeting with CCC of CCC
+CCC Binder Management Meeting With YYY ZZZ
+CCC BMS Meeting
+CCC CCC Eros Meeting
+CCC - Claim Data Extract - Add LocationVoyage Detail
+CCC - Claim Data Extract - Issue Reported
+CCC Competition and Zone C ammendments
+CCC - Data Mart - Movt Extract Calculating Paid To Date Orig Incorrectly
+CCC Deliverable Release
+CCC Demo
+CCC Flex Sign-Off Meetiing
+CCC Flex Sign-Off Meetiing
+CCC Format Figures Book mis-ordering some rows
+CCC Group Ltd SQL Data Conversion
+CCC - Last Two Days Messages Not Loaded
+CCC Meeting
+CCC meeting - Feedback/Requirements notes
+CCC Meeting RE: Live Syndicate System Provision
+CCC Meeting To Discuss Risk Entry
+CCC Messages And Close Issues
+CCC onsite demo training and setting up for next Wednesday
+CCC Overiew on Period Close Object
+CCC Payroll Meeting
+CCC - Period Close Support
+CCC Planning Meeting @ CCC
+CCC RI Development - Extra RI Program Types To Be Added
+CCC RI Development - Hide SyndNo Fields And RI Linked SCM/USM Tabs
+CCC RISK SUB-SYSTEM SUPPORT
+CCC RISK SUB-SYSTEM SUPPORT
+CCC Security Pass Return to CCC & SIPL Monitor Collection
+CCC Server Support - August
+CCC Strategy Meeting with CCC
+CCC - Super Search Support
+CCC Support - Month End Close Support
+CCC Support - USM Data Extract Super Search Setup
+CCC Support - YYY ZZZ PC Intermittent SCMS Problems Investigation
+CCC Synd XXXX - Gathering extra data requirements from YYY ZZZ
+CCC System -  Test And Check-In Latest Bug Fixes
+CCC Technical Demo
+CCC User YYY ZZZ New SCMS Licence PC Crashed & Replaced
+CCC website mock up
+Change folder name 'ndex' to 'ldex' when v2 SCMS released on live servers
+Change line event detail and follow with going into super-user mode causing exceptions
+Change line event detail and follow with going into super-user mode causing exceptions
+Changing Line % In Super User Causes error
+Check in and write manual for generic conversion script
+Check-in CCC Code To SourceSafe
+Checkin Code April 2009
+Check-in Core Changes (Grid Print and User Preferences)
+Check-in Core Changes (Grid Print and User Preferences)
+checking email security 
+Checking in modified WebSiteBuilder Solution
+Check that audit on all tables is visible in relevant form
+Check that 'Last Seen' removal works as expected
+Christmas party event venue search for 11th Dec
+Claim Movement Ledger Code field access not working
+Claim splits with multiple lines not saving updated splits (e.g. XXXX DB: Claim# 40015651199)
+Claim splits with multiple lines not saving updated splits (e.g. XXXX DB: Claim# 40015651199)
+Clarity: Allow Tasks with Certain Project Breakdown Codes To Be Auto Authorised
+Clarity: Client Reference Not Mandatory When Should Be
+Clarity: Effort By needs to be a drop down if not your task
+Clarity: Port Task Super Search
+Clarity: Sort out FieldAccess and Can Add/Delete for Released, Finished and Cancelled Tasks
+Cleaned up the RISK_Reference SP and how it's generated
+Cleaning office space before holiday for move upstairs
+Clicking Column Sort On Event Search/Detail - Linked SCM Tab Results Grid Causes Exception
+Client Support: No SCM Messages Received
+Client Support: Synd XXXX Manual Movements Suspect Validation Errors
+Client Support: Synd XXXX Old 'ca_blah' Scripts Created By YYY ZZZ Need Running
+CodeGen and TEXT datatype issue
+Code Generator: Define Default Sort Order On Tables
+Collect old equipment from CCC offices.
+Combos which use Business Object Tables Throwing Exceptions
+Comparator not checking numeric keys properly in META/REF comparisons
+Comparator: trigger generation procs need PK only
+comSummary not loading data on Posted USM's
+Configuration of Reporting Services on SiP-DEV
+Controls Not Appearing On Panels When Should Be
+Convert Loader to .NET 2 and new SourceSafe
+Convert Risk Super Search
+Correcting Binder Back Loader SP to insert row's into Breakdown table even when there is on entry
+Covert XXXX
+Craft CCC Data Conversion Letter
+Create an customise trial version for CCC for CCC
+Create User Review Report
+Creating and registering link-edusoft.com website
+Creating LinkEX System Requirements document for CCC
+Creating & Printing Photoshop artwork for YYY ZZZ's CCC poster
+Creating Spec/work to be done on RiskDataCapture System
+Creation of secondary DNS on SIP-DEV in prep for backup setup testing
+DAD System Meeting
+DAD System Meeting
+Daily claims report should not separate out events
+Daily Management Tasks December 2006
+Daily Report - If Blank Message Request To State Explicitly In Report
+Daily server checks 2007/02
+Daily server checks 2007/09
+Daily server checks 2007/10
+Daily server checks 2007/14
+Daily server checks 2007/15
+Daily server checks 2007/19
+Daily server checks 2007/40
+Daily server checks 2007/44
+Daily Server Checks - Week 10
+Daily Server Checks - Week 15
+Daily Server Checks - Week 16
+Daily server checks - Week 19
+Daily Server Checks - Week 30
+Daily Server Checks - Week 31
+Daily Server Checks - Week 42
+Daily Server Checks - Week 44
+Daily Server Checks - Week 46
+Daily Server Checks - Week 51
+Daily Server Checks - Week 52
+Daily Server Health Checks - 2007/03
+Daily Server Health Checks - 2007/04
+Daily Server Health Checks - 2007/10
+Daily Server Health Checks - 2008/12
+Daily Server Health Checks - 2008/13
+Daily Server Health Checks - 2008/19
+Daily Server Health Checks - 2008/21
+Daily Server Health Checks - 2008/31
+Daily Server Health Checks - 2008/37
+Daily Server Health Checks - 2008/42
+Daily Server Health Checks - 2008/51
+Daily Server Health Checks 2009/02
+Daily Server Health Checks 2009/07
+Daily Server Health Checks - 2009/10
+Daily Server Health Checks - 2009/11
+Database Synchronisation
+Datagrid not able to type over existing values
+Dec tab shoes multiple rows if dec risk has multiple limits/premiums/excesses
+Delayed timer mechanism to allow deferral of function calls
+Delayed timer mechanism to allow deferral of function calls
+Deliver CCC databases to Stratford
+Demo over the phone with CCC
+Deploy Scorecard Functionality to TEST
+Develop options for Loader interface
+Diary Event Recipient Entry Button Sometimes Causing Unhandled Exception
+Diary events - add ClearedOn to REF_DiaryEventRecipient
+DigiCert  SSL Cert to Replace Verisign sipsql001.sipl.co.uk Cert
+Disaster recovery task for CCC scheduled for Friday 25th April
+Discussing with YYY ZZZ about current progress of Binder Mgt
+Discussion with YYY ZZZ concerning Payroll and WKH issues
+Discussion with YYY ZZZ concerning Payroll and WKH issues
+Document USM column changes and put in Knowledge Base
+Drilldown falls over with some 'IN' keys
+Editing Report (Figures Book SiP) to display large sums properly
+Editing SIP staff profile control on website to remove YYY ZZZ
+e-HR CCC Glasgow Employee YYY ZZZ Incorrect Region Setup
+eHR Logo Changes
+Email issues with YYY ZZZ, our mail is not reaching them - investigation.
+Email Marketing
+Email Response for BMS to CCC
+Enable Exchange Rates To Be Specified in Figures Books
+Enable Quick Radio Buttons and separators
+Ensure that v2.2 Line Event update does not reintroduce any bugs fixed in 2.1
+Error Message appearing on opening certain USM's
+Evening Networking with CCC 18:30 - 20:00
+Event total sometimes not calculated when claim first split
+Exception during RISK supersearch
+Exception when adding new bordereau row
+Expandable Zone B Content
+Extended Lunch
+Extended Lunch
+Extend LookupTag to include specific filters
+Extend LookupTag to include specific filters
+Extend Reporting Services Security
+Extra 30 mins for Firday Lunch
+Extra 30 mins for Firday Lunch
+Extra 30 mins for Firday Lunch
+Extra 30 mins for Firday Lunch
+Extra LinkEX roles for non-access staff
+Extra travelling time to Tiptree
+Failure of SMTP Server reports due to network address change LTD-HQ1/LTD-HQ2
+Familiarised self with SQL server 
+Figures Book Drill Down Bug
+Figures Book Drill Down Bug
+Finish configuring/restoring new machine build
+Fire Alarm At Technopark and Extended Lunch With YYY ZZZ
+Fire Alarm At Technopark and Extended Lunch With YYY ZZZ
+Fix centi-currency values in dev data
+Fixing Code Generator so that it displays child controls panel on presentation tab
+Fixing memory leaks in Document
+Fixing memory leaks in Document
+Fix Missing XXXX SCM Claim Currency Data from 1.10 to Version 2 conversion
+Flex Mobile - Credit Invoice Update To Handle Fund Payment Credits
+Flex Mobile - Customer Search - Connection-In Date References Need To Be Renamed Connection-End
+Flex Mobile - Repair Entry Bug Reported
+Flex Mobile - Sorting Bug Found In Data (non-billable)
+Flex Mobile: User PC reporting error
+Flow Panels Not Being Displayed On Form Load
+Focus doesn't go to invalid controls when clicking errors in Version 3
+Forceful Push For Go Live Meeting XXXX CCCs 
+Further Release to TEST with Loader fixes.
+General Coverholder/Audit System Support - June
+Get Calculations in Task object to follow new Calculation mechanism
+Get Calculations in Task object to follow new Calculation mechanism
+Get Scorecard Object Up And Running on Latest Database And Code
+Getting Licence Checker to work with SCMS in .NET2
+Getting Set up with XXXX database, old technical core and old SCMS
+Getting the raw data for Synd XXXX 
+Getting XXXX Dev Sync'd To Work With Latest Code
+Glitch in SCM Figures cascade
+Going through email after holiday
+Grid columns not autosizing properly upon loads
+Grids not exporting CSV's
+Grid Sort Preference Failing
+Grid very slow to draw when number of columns is large
+HR Splash Page
+Hybrid form advance tab page does not disable when business object opens
+Ibex house CCC CCC Users Not Able to Access CCC SCMS System
+Ibex house CCC CCC Users Not Able to Access CCC SCMS System
+Implement site-to-site VPN between UK and Dubai offices.
+Inception/Expiry Date Validation Checks On Manual Payments Not Working
+Incoporating SEO into Youlink HR - Identifying Keywords From Web
+Incorrect figures on some synd XXXX line events
+Incorrect syntax near 'Key' when transferring META_SystemOptionValues 
+Individual Risk Triangle figures wrong -- investigate and fix
+Inherit Super Search from Stats from to make it drillable
+Installing and learning DotNetNuke
+Installing SQL server 2008 R2 ready for New CCC Uni
+Install Reporting Services 2005
+Install YYY ZZZ SCMS Licence
+Introduce YYY ZZZ to the Period Close
+Introduce YYY ZZZ to the Period Close
+Introducing the lost copy, past, mini menu on grid/fields right click (for V3)
+Introduction to V3 and Unit Test
+Introduction to V3 and Unit Test
+Intro video for YouLink HR
+Investigate and Implement Sending E-Mail In Code From Dedicated Account
+Investigate errors in individual risk triangles
+Investigate/Fix Error in XXXX Risk Code Triangle
+Investigate Profiling Software for SiP Applications
+Investigate rules for registering Trademarks.
+Investigate XXXX Layer Refs
+Investigate XXX YYY's POP3 Errors
+Investigating why LLOYDS SCM messages failed to arrive on LDEX box this morning
+ISO Customer Satisfaction meeting with YYY ZZZ
+ISO meeting July 17th 2013 - Preparation and attending meeting
+Issue with SiPFrameworkComboBox in Search Control
+Issue with SiPFrameworkComboBox in Search Control
+Lack of space preventing queries.. again.
+Laptop backup for August and PC housekeeping
+Laptop Cleanup and Backup For ReBuild
+Layout Issues With Splitters and Panels
+LC keep case study associate
+LDEX Machine has no messages (CCC Firewall change) chase & action
+Learning c# 
+Ledger Codes to be at Claim level only
+Linked RI Query from YYY ZZZ (CCC)
+Linked RI Query from YYY ZZZ (CCC)
+LinkPQN - Rearrange CPM Report Layout/SQL To Include Academic Year In Output Table
+LinkPQN - Remove Pre-Populated NHS CPM System Fields From CPM Report
+Look into stored procedure prefixing issues
+Look Into Test System Validation Issues Flagged By User. See Plan
+Management Meeting
+Management Meeting
+Management Meeting May 2010 
+Manually correcting invalid USM Transaction rows that are duplicating data XXXX
+Manual USM Entry not working on Live
+Manual USM Entry not working on Live
+Marketing advise on SIP products
+Marketing: Catch up meeting with YYY ZZZ from CCC
+Masking not being applied to filter field values in Search Control
+MaXtor & laptop disk cleanup/zipup unecessary old files
+Meeting at CCC for Knowledge Connect Programme
+Meeting at CCC with YYY ZZZ - Head of Department
+Meeting CCC about potential first client
+Meeting with CCC - Contract discussion
+Meeting with CCC discussing Madison Idea
+Meeting with CCCs
+Meeting with CCC to discuss Trademark issues and registration
+Meeting with CCC to show new prices and talk about new clients and help we provide
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ and American colleague to show her what we do
+Meeting with YYY ZZZ and YYY ZZZ at IoD
+Meeting with YYY ZZZ from YYY ZZZ Business Development to explore opportunities
+Meeting with YYY ZZZ looking at obstacles to XXXX sign-off
+Meeting with YYY ZZZ of CCC
+Meeting with YYY ZZZ of CCC
+Meeting with YYY ZZZ's Head of Departments
+Meeting With YYY ZZZ To Demo Diary Event v1.10 Developments
+Meeting with YYY ZZZ to discuss DR issues with Coverholder System
+Meeting with YYY ZZZ & YYY ZZZ Regarding E-HR
+Meeting with YYY ZZZ & YYY ZZZ Regarding E-HR
+Meeting YYY ZZZ at CCC, possible business
+Meeting YYY ZZZ from CCC to discuss white labelling
+Meet With YYY ZZZ of CCC
+Memory leak in search
+Merge SCM with any changes YYY ZZZ has made
+Merge XXXX CONV databases
+Message Reference to be available in Business Tables
+META_FilterReturnField needs attention
+Migrate YYY ZZZ's data onto new laptop
+Mini Dec adding fails because LeadUnderWriter is now Mandatory
+Misc Layout glitches
+Modify Query search to include Risk Queries
+Modify Query search to include Risk Queries
+Monthly Management Meeting
+Monthy SiP Management Meeting
+Need to be able define LinkedTags in Combo Cells using Tag Wizard
+Need to check for RI invalidated by change of Risk
+Negative TOIL hours causes system e-HR v2 hang during load
+Nested Document Searches Should Not Use Any Default Filters Set
+Nested forms not resizing when maximising screen (versions 2 and 3)
+Network event at Keyworth Centre - 5pm till 7pm
+Networking Event at YYY ZZZ Clarence House: 5pm - 7pm
+Network Issues at Technopark and getting support from YYY ZZZ
+New field to be added at section level for 'Max Period'
+Newly added events not selectable in claim
+New Test Warehouse Statistics Bug Fixes 
+New Version of YouLink HR testing and preparing demo database for next demo.
+Notes control not filtering/refreshing data correctly
+Notes control not marking business object as dirty when new notes added
+Office catch up and email catch up after holiday
+Office move
+On correcting UWRef, RI calcs need to handle any RI on old ref
+On multi-currency split claims, added movement has extra split TOTAL row
+Organise SCMS Database Re-Distribution
+OU Project Management EMA discussion with YYY ZZZ
+OU Project Management EMA discussion with YYY ZZZ
+Outstanding Lloyds figures on Movement Shouldn't Cascade to Event Total
+Outstanding Lloyds figures on Movement Shouldn't Cascade to Event Total
+Panel Borders inside Multi Controls Not Working
+Panel not showing scrollbars when required after initial load
+Payrole BS
+Period Close conversion needs attention
+Period Close - USM - No Validation Errors Remaining Check Causes Exception
+POS - Release Configuration Merge To SIP_DEV
+Postponing of Physical AddChild until AddChildSpecific completes
+Postponing of Physical AddChild until AddChildSpecific completes
+Potential YYY ZZZ project for CPD Online System
+Power outage, email catchup
+Preapring demo to CCC and CCC
+Preparing for Demo at Gloucester
+Pricing document SCMS
+Problems with Tag Wizard for Lookup Buttons in Grids
+Problems with Tag Wizard for Lookup Buttons in Grids
+Progress update meeting with YYY ZZZ
+Progress update meeting with YYY ZZZ
+Project CCC / Software Requirements & Costings
+Proportional FAC not auto re-calculating in front end
+Proportional FAC not auto re-calculating in front end
+Purchasing CCC SSL Certificate
+Purchasing CCC SSL Certificate
+Query with Claim 61506660195 YYY ZZZ
+Quickbuttons to use SiPReference instead of going to database directly
+Reaserching CCC
+Re-convert XXXX
+Re-designing e-HRv2 logo for CCC
+REF_Broker auto populate from LDEX message failing 
+Reference code review
+Reflecting MS Non-Public properties so they can be accessed
+Refreshing Broker Details when Broker Code changes
+Release Latest CCC Application To CCC
+Release SCMS Application To Live -- XXXX Synd
+Release Task System 4.0.2050.18434
+Release Technical Core 1.6.2127.20679
+Release Technical Core 1.6.2127.20679
+Remove Data from Database based on old Adding Dec method
+Remove need for two RTF fields when using Rich Text Boxes
+Remove old users from daily message emails/ remove obselete logins from server as well (tidy up)
+Remove the Add New buttons on Event and UWRCorrection Screens
+Remove the Warehouse Database from BMS
+Removing SQL 2005 from machine and setting up SQL server Reporting 2008
+Replace SYSTEM_USER with FN_CORE_CURRENT_USER
+Report Server Print Button Stopped Working For Some SCMS Users
+Report Server Print Button Stopped Working For Some SCMS Users
+Resolving SCMS issues in .NET2
+Responding email after week of sickness
+Respond to and deal with issues relating to Cash To Cash and Closing to Closing Functionality
+Restore type ahead functionality to 'IN' ListBoxes in v.2
+Restoring and configuring my laptop data
+Review Binder Management Progress With YYY ZZZ and Check His Development Of The Grid
+Review Binder Management Progress With YYY ZZZ and Check His Development Of The Grid
+Review CCC Initial Contract
+Reviewing Binder Management Progress With YYY ZZZ
+Review of Payment System
+RichTextBox background colour not being set correctly when read only
+RichTextBox background colour not being set correctly when read only
+RI OS Synd, RI Ptd Synd Incorrectly Shown On Event Linked SCM Figures
+RI OS Synd, RI Ptd Synd Incorrectly Shown On Event Linked SCM Figures
+RI Proportional Calculations Split Error
+RI Proportional Calculations Split Error
+RI Quota Share Calculate Error on Period Close XXXX
+Risk conversion (v.1 to v.2) to take account of latest changes in the Risk
+Risk crashes when change statistics
+Risk Failing To Filter Risk Code
+Risk Save Is Taking Too Long
+Risk Search: Show FAC RI Indicator On The LINE Section
+RITC - Data Mart Movt. Extract Gathering requirements Meeting
+RITC - GotoMeeting with YYY ZZZ To Discuss Various Requirements For Movt. Data Mart Extract
+RITC - SCMS Transaction Counts Report 
+Role Segregation Document For CCC Compliance Team - Breakdown Per Role
+Rollout Synd XXXX v2 Test To Test Users.
+Run XXXX Conversion
+SCM Adding Manual Movement Should Refresh Attached RI Field Access After Save
+SCM Binder Management Clearing Down Sample DataBase
+SCM Event field access needs to cope with split close being in nett close
+SCM fails to save when both Movement Detail and Market Figures updated
+SCM Figures cascade sometimes loops when Inc updated
+SCM form doesn't open if not linked to a risk
+SCM form doesn't open if not linked to a risk
+SCM - Grid visibility bits stop working after a save
+SCM Open Linked Risk - glitch when no Risk found to link to
+SCM Save - event adjustments not saved
+SCMS/BMS licence key updates
+SCM Search and Super Search fail when main stats not defined
+SCMS Figures Book Issue
+SCMS Figures Book Issue
+SCMS Meeting With Claims Adjuster Team On Diary Event/SCMS Issues
+SCMS Meeting With Claims Adjuster Team On Diary Event/SCMS Issues
+SCMS Messages - LDEX Server Received No Messages
+SCMS Report No of Synd Movements In Month
+SCMS SCM Day Book Report Bug 
+SCMS Screen Prints And Table Field Names Lists Document For CCC
+SCMS - Support / Message Loading
+SCMS - Support / Message Loading
+SCMS - Support / Message Loading
+SCMS - Support / Message Loading
+SCMS Support XXXX/XXXX Line Suspect Errors Fix
+SCM Supersearch rounding issue
+SCM Supersearch rounding issue
+SCMS User File Structure Check/Updates To Allow Auto-Release To Hold
+SCMS User Support - Answer User Queries Reported
+SCMS v2 Task Management Meeting With YYY ZZZ
+SCMS v2 Task Management Meeting With YYY ZZZ
+SCM Validation doesn't seem to be attaching lines to risks always
+SCM Validation Failing XXXX
+Search Fields list box items need to resize with system font sizes.
+Search on USM Validations not working
+Server Memory Diagnostics and Backup Tape Change 2011/07
+Setting up CCC as White Labeller
+Setting up Coverholder/Audit System at CCC for YYY ZZZ
+Setting up Twitter and incorporating to our website on home page
+Setup Laptop for home use
+Set up of new XDH messaging system (command line scripts) on CCC servers via FTP replacing ldex
+Set up site-to-site VPN between Stratford and Tabernacle Street.
+Set up virtual server test-lab
+SIP Admin - Reviewing RITC Data Mart Work Proposal
+SiP Board Meetig November 2007
+SiP Board Meeting
+SIP Christmas Dinner - Early Leave
+SIP Christmas Dinner - Early Leave
+SiPCodeGenerator Job Evaluation
+SiP Internal Task - Internet Connection Issue
+SiP Lunch at Cafe Spice
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Tasks & Filing
+SIP - Meeting With FenCom To Discuss Support Process Issues
+SiP Planning Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Review Lloyd's Month Close Procedures With YYY ZZZ
+SiP - Review Lloyd's Month Close Procedures With YYY ZZZ
+SiP VAT Return
+Solving problem for YYY ZZZ concerning his SQL query
+Solving problem for YYY ZZZ concerning his SQL query
+Some SCM Field Accesses need adjusting
+Sorting out YYY ZZZ's Licensing Problem and SiP Licencer
+Sorting out YYY ZZZ's Licensing Problem and SiP Licencer
+Sort out roles on XXXX Test and set up on users' machines
+Speaking with YYY ZZZ concerning more LinkEX upgrades
+SQL Comparator Not working Properly
+SQL Comparator Not working Properly
+SQL Server logging / log files
+Stats search joins not right yet
+Sun Account Export - more detailed requirements now available
+Super User Mode can't add/delete children when Risk is Signed
+Sync all minor bug fixes on v2 to all live syndicates
+Synd Figures must be maintained dynamically; unattached figures to cause Validation Error
+Synd XXXX SCMS Conversion:  YYY ZZZ's Display is Too Cramped
+Synd XXXX SCMS Conversion:  YYY ZZZ's Display is Too Cramped
+Synd XXXX User Saved Query Check
+Synd XXXX XCS Claim Closed Indicator Updated From Xchanging Snapshot Data
+Task Dependency - Direct Task Number Entry
+TASK System enhancement
+Task system not Showing Documents
+Tax Claim for 2006 Code Generator Development
+Team Meeting
+Team Meeting
+Test and Deploy December Security Patches
+Testing
+Testing Current version's in VSS and did mini release of CORE to fix grid button bug
+Test Systems USM/SCM Validation Process Checks
+Test System XLSior Export Issues - See Notes - Email
+Textbox not sizing correctly when anchored
+Time in Lieu - Dentist
+TOIL testing for latest release of the system
+Total Currency amounts: old currency missing where amounts not brought forward
+Training
+Training - Learning all about the FAC RI from YYY ZZZ
+Training - Learning all about the FAC RI from YYY ZZZ
+Triggers for REF_Broker, REF_FILCode and the various accounts imports etc
+Two different versions of USM Super Search hanging around - merge?
+Uninstalling software from Old Laptop for YYY ZZZ
+Unsubscription page
+Unsubscription page
+Update Exchange Server to fix Webmail Bug
+Update Knowledge Base with USM Changes
+Update Live Servers with latest security patches
+Update Synd XXXX syndicate specific part of SCM validation to Update MarketCatCodes into REF_Event
+Update various CorpClaim/SunAc  procedures, metadata etc for compatibility with changes elsewhere
+Updating line twice on same movement breaks unique key
+Updating line twice on same movement breaks unique key
+Updating process flow for Online LinkEX portal and Online Application system
+Updating SCMS USM Validation
+User support, users on Test not able to log in
+USM Contra (New and Contrad) Transaction not showing LloydsProcessingDate
+USM Split: various enhancements bugs (see Plan)
+USMSuperSearch not working
+USM UWRef Correction table needs to distinguish between inward and outward
+USM Validation - Permissions problem
+UWRef Correction when ambiguous needs a warning rather than just a failure msg
+v2.2 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2 Test Scripts - Outstanding Tests For SubSystem  - General 
+v2 User Testing: Aid User Issues With Latest Release
+v2 User Testing: USM and SCM Search Missing Stat Ref In Return Fields.
+v2 XXXX Latest Test Release With Latest Data Cut To Parallel Test Figures
+V3 Allow Auto Run And Advanced Search Tab Hide via Meta Data
+V3 Code Check-In July 2008
+V3 Forms that have nested forms lose focus upon load
+V3 - Generation of AddChildSpecific needs re-structuring
+V3 - Generation of AddChildSpecific needs re-structuring
+V3 Investigation into workings of new data structure
+V3 - Long text strings not fully shown on tab page headers
+V3 - Maximising Grid Causes Problems with Filtering Due To Currency Managers Coming Out Of Sync
+[ V3 Merge ] Merge SiPTest ehancement into latest code
+[ V3 Office Intergration ] Added IsCheckIn and IsCheckOut fields
+V3 Set field access to read-only automatically for calculated result fields
+[ V3 SiPDocument ] Revisions in the external repository were not being deleted when the document delete commit stored procedure was called
+V3 - Top row not selected in grid after doing sort
+V3 - Unexpected column sizing when grid in splitter resized
+Visual Source Safe Analyser Run on SIP-DEV to Ensure Data Integrity
+Warehouse not including USM RI stats
+Webform - Basic ASP file structures
+Website research into use of cookies warnings on websites
+When adding new Section, need to cater for new EPI entry
+Wizard form not repainting properly
+Working out why Add/Delete not showing on link manager in latest version
+Write up DR options for CCC
+Writing specification for SP Generator.
+XML Notes - v1.8 format db's need converting to v1.9
+XXXX Audit -- More SCMS Information Required
+XXXX auto-split process failing
+XXXX CCCs RAW data capture - USM TX Check @ June 2007
+XXXX Claim OS to be broken down report
+XXXX Daily movement report (email) to be sent to YYY ZZZ/YYY ZZZ
+XXXX Daily PA Claim movements report changes
+XXXX Diary Events user error reported, need to rectify with batch query.
+XXXX DOL Errors
+XXXX Format Triangles -- Deploy  on Live
+XXXX Format Triangle sometimes not showing latest month's figures
+XXXX format triangles showing some key rows twice
+XXXX Go live end user machine updates and tweaks and testing
+XXXX Incorrect movement order cref: 60XXXX80797
+XXXX Invalid claim references in SCM_SyndicateAdjustment i.e. '000102735' was '102735'
+XXXX Licensing Problem with Version 2
+XXXX Live And Test: SCM Validation Failed. 
+XXXX Live - SCM Super Search Conversion To v1.10 - Report Server Update
+XXXX MFR report - check data
+XXXX Multiple Line error with Splits
+XXXX RI doesn't seem to be calculating during SCM Validation
+XXXX RI Meeting
+XXXX RI Proportional amounts correction on claims listed in period close
+XXXX RI Queries (Working with users)
+XXXX Risk Code Figures Book totals wrong - investigate/fix
+XXXX SCM Euro Converted Claims Not Tying Back Investigation
+XXXX SCm Line Errors
+XXXX SCM Message Load Failed
+XXXX SCM Message - resolve 'line sequence number suspect..' errors
+XXXX SCM Split Complete Check Updated For Only Latest Movements
+XXXX SCM's With No '.' Event Set Need Resolving
+XXXX SCM Validation Event Check Needs To Filter Ont Non-Moved Claims
+XXXX Support: Period Close Check - Force Through Items
+XXXX Support: SCM Event RI figures incorrect
+XXXX synd XXXX conversion - Progress Update and Finance Team's Reporting Requirements
+XXXX Triangle -- Presentation Bugs
+XXXX User Meeting And Outcome Dicussion
+XXXX User Meeting And Outcome Dicussion
+XXXX - User Reported Stat Triangles Displaying No Figures Bug Repeated Overnight
+XXXX User Training
+XXXX User - YYY ZZZ SCMS Setup
+XXXX v1.10 Validation Runs - Test And Convert XXXX Specific SPs To v1.10
+XXXX Validation Failure - Reolve and Re-run
+XXXX Validation requiring extra checks for duplicate advised data
+XXXX Various User questions/issues with data and System functionality
+XXXX Version 2.2 Live Manual Claim with incorrect data ClaimRef:00012010199
+XXXX Version 2.2 Live Manual Claim with incorrect data ClaimRef:00012010199
+XXXX Xlsior extracts
+XXXX XXXX Figures book tests and checks on Major risk code
+XXXX XXXX Triangles rebuilt in error
+YouLink HR Client - CCC Client 1 hour tutorial
+YouLink HR enhancements business analysis
+YouLink HR phone demo to Deminos HR and follow up email
+YouLink HR setting up help from CCC
+YYY ZZZ Interview - City Student 2008
+YYY ZZZ Interview - City Student 2008
+YYY ZZZ Laptop Updates / AV Licence Renewal
+YYY ZZZ - Meeting to discuss XXXX conversion - 12/07/2011
+YYY ZZZ - Meeting to discuss XXXX conversion - 21/07/2011
+YYY ZZZ Office - Network Connection Issue
+YYY ZZZ's Health & Safety Meeting
+YYY ZZZ's request to override all diary's
+YYY ZZZ's Warehouse Re-Design Plan Review
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS Claim Data Issues
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS USM Narrative Conversion
+YYY ZZZ Synd XXXX Risk Validation Failure YYY ZZZ Ticket Number 35706
+YYY ZZZ XXXX alliance report & Machine Date Formatting error
+YYY ZZZ - XXXX Conv Progress Meeting - 2 Aug 2011
+YYY ZZZ - XXXX Message Load Issue
+YYY ZZZ XXXX/XXXX - Month-End Close Support
+YYY ZZZ XXXX/XXXX support - Message Loading Issue
+Zero percent on any line prevents figures update on all lines
+YouLink HR: Online Mailing List Report
+ISO 9001 Risk Register
+ISO 9001 Risk Register
+Sorting out Licence Problems
+Sorting out Licence Problems
+Create CCC Demo Database
+CCC Lunch
+CCC Support - Data Mart Query
+Add a business rule for IdealProgrammingDaysEstimate so that it remains madatory until a value above 0 is entered
+CCC Eros Meeting
+Include Descriptions For Qual Cat On USM. See Attached Document For Codes.
+Investigate Dail Claims Movement Report Problem
+Investigate Treaty Cession Percentage problems
+Investigate Treaty Generation Paid Report Problem
+Preparation for Next Wed (8th Jan) Meetings
+SCM Form sometimes crashes SCMS when moving between movements/AsAt dates
+SCM Super User UW Ref Correction Does Not Allow To Populate/Correct All UW Ref
+Set Multiple Syndicate Users Up With Both XXXX, XXXX Systems
+USM Split Columns
+XXXX Test Systems Message Load Job Setup
+Preparation for Wednesday's Board Meeting
+Reviewing LinkEx Proposed Project Changes
+YouLink HR: Add From/To Field Validation To Qualifications
+YouLink HR: CPPD Not Marking Record As Dirty Correctly / Saving To Wrong Employee!
+FLEX Improved New Development Meeting
+FLEX Improved New Development Meeting
+FLEX Improved New Development Meeting
+USM Message PaymentDate 999999 Handling/Test System Validation Updates Released
+YouLink HR: YYY ZZZ Bug Investigation - System Crash
+FLEX Staff Management Database Design
+Releasing BMS Test to Live
+Releasing BMS Test to Live
+v3 AddChild To Allow Variable Insert Position
+YouLink HR - Request Absence Bug Fix
+Get Report Server Running On LIVE
+Installing SiP-Cloud in YYY ZZZ Office
+Investigate why data in TEMP USM_Transaction does not match RAW data
+Meeting with YYY ZZZ
+Release Technical Core & SCMS V3
+SiP Tab Control Enhancements
+YouLink HR: Reminder Times within the System
+LinkEx German Format Date Issue
+LinkEx German Format Date Issue
+Acord Club Meetings -2011
+Add an execute button to the Block Search Screen
+Add an execute button to the Block Search Screen
+Adding more classes of Buisness to BMS
+Add SiP Code Generator Business Views As Encrypted Views
+Aid XXXX SCM RI/Split Data Loss Restore
+Allow CheckBox to be Aligned to Middle of Label in Version 3
+Asset Database Bugfixing.
+Bitirx CRM entry and learning.
+Bitirx CRM entry and learning.
+BMS Diary Event Bordereau Due 
+BMS Risk Search Results - Add column for is Risk/Dec.
+Brushing up on web development skills
+Catch up on email after holiday
+CCC Consultancy
+CCC - Data Mart Staging Area Load Process Requirements - Spec review
+CCC - Data Mart Staging Area Load Process Requirements - Spec review
+CCC Meeting
+CCC - Period Close Support
+CCC - Support (Query on Risk Super Search and User Setup process)
+CCC - USM Super Search  Results Query - Treaty 100% Amounts Update
+CCC Validation Updates and Fixes
+CCC Validation Updates and Fixes
+CCC - WSETT Messages Failing To Load
+CCC - XLSior Proportional Extract - Support Query
+Clarity: Add Business Links Grid To Task
+Clean up RISK_META_FieldAccess
+Code Generator: Linking Mechanism Between Parent/Child Forms
+Code Generator: Transfer All Files Suffixed .sql (Improve Warning Message)
+Contact IBM and have laptop service tag reset.
+Convert ROE Discrepancy Report Into v2 For Investigating Newly Converted DBs
+Creating Change request forms for FLEX
+Daily Server Checks - Week 17
+Daily server checks - Week 22
+Daily Server Checks - Week 41
+Daily Server Checks - Week 43
+Daily Server Checks - Week 50
+Daily Server Health Checks - 2008/27
+Daily Server Health Checks - 2008/48
+Daily Server Health Checks - 2009/09
+Delete RI/Risk Causing Save Diary Event Error
+Demo of Binder Management System
+Demo of Binder Management System
+[Document V3 ] Checkin Tasks {10352, 10354, 10422 - 10425 }
+[Document V3 ] Checkin Tasks {10352, 10354, 10422 - 10425 }
+Enter /Update/Delete Reinstatements - Sequence numbers not updating correctly
+Exception thrown if you click the Bordereaux tab in Risk form
+Fix Clarity Bugs With Adding Effort
+Fix POP3 Taildrop Glitch
+Fix USM _Message_summary Stored Proc to work with new USM
+Flex Mobile: Repair - Remove abililty to type IMEI if existing customer is ticked.
+Flex Mobile Support on DB and Backup Structure for ECG and Reports Not Loading Issue
+Flex Mobile Support - Query on how to  delete docs and user issues with reports/connection
+Flex Mobile - System Reported To Be Down Following EJC Server Updates And Reboot
+Interview with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Miscellaneous Tasks for December
+Move duplicate rows from Risk_risk and related tables into temporary storage
+On Long Searches If Diary Event Check Reminder Spool Takes Effect With Entry Found And Search Ongoing An Error Flagged
+On Long Searches If Diary Event Check Reminder Spool Takes Effect With Entry Found And Search Ongoing An Error Flagged
+Panel Layout Improvements
+Prepare code for checkin
+Prepare laptop for YYY ZZZ
+Prices and research for SIP's trip to the horses this July
+Releasing current DEV to TEST
+Releasing Latest System to TEST on CMSHQ1
+Releasing LinkEX to 5 new users for YYY ZZZ
+Risk Super Search Conv To .Net2
+RITC Data Mart - Bug - Some Historical Months Fail Load Due To Exchange Precision Differences
+RITC - Data Mart Fix - Report Movements Using Movement ROE
+RITC - Mart Emails Requesting Explanations/Sample Extracts Based on YYY ZZZ's Requirements
+SCM message copy failure on XXXX, XXXX
+SCM message copy failure on XXXX, XXXX
+SCMS Binder Management Licence Checker Issues
+SCMS Support: Issue with claim 40513 531195 on XXXX
+SCMS Test v1.10 Not Working On NT OS Machine
+SCMS Test v1.10 Not Working On NT OS Machine
+Server Maintenance
+Set up PC to test SQL Server 2005 Reporting Services
+SiP Approach To Web Development Discussion
+SiP Approach To Web Development Discussion
+SiP Approach To Web Development Discussion
+Sizing Issues with Diary Event Detail Box
+Telephone demo with CCC
+Test and deploy October Microsoft Patches
+Testing The Holiday Card Report and Auto Running
+Understanding how the Auditing system works on V2
+Update V3 Reference Data Form so works in same way as V2
+USER SUPPORT - Form not loading after reload
+User Support -- YYY ZZZ Issue With Fac Calculations
+User Support -- YYY ZZZ Issue With Fac Calculations
+v1.10 Release Notes Report/User Level Release Notes Report
+V3 - 'Exit Application?' prompt appears after 'Save object?' prompts when closing app
+[ V3 SiPDocument ]  Category selector does not show combo boxes after document type selected
+Xchanging Demo
+Xchanging Demo
+XXXX Users Period Close Demo - Setup And Attend With YYY ZZZ
+YYY ZZZ Office Cleanup
+YYY ZZZ - Synd XXXX/XXXX Period Close and Warehouse Build
+YYY ZZZ - XXXX,XXXX and XXXX - Aid Close and Warehouse Build
+YouLink HR: Add New Document Category Field to Sub System
+YouLink HR Documentation June 2011
+E-HR v2 Client: CCC 2012
+E-HR v2 Client: CCC 2012
+E-HR v2 Client: CCC 2012
+Add Emergency EMails Functionality Into The Staff Manager
+SCMS Support - YYY ZZZ's Request For Closing Claims/Updating Close Indicator
+SCMS Support - YYY ZZZ's Request For Closing Claims/Updating Close Indicator
+YouLink HR: CPPD Online Report
+YouLink HR: CCC 2014
+Risk Validation - signed risks (In SuperUser, validation errors not coming up)
+Authorising Person is returning the wrong records (Plus Synchronising Data)
+EMail Server Not Clearing Down Out of Office Messages
+Daily Management Tasks - December 2011
+REPORTING - Latest version of BMS core has broken reports window
+REPORTING - Latest version of BMS core has broken reports window
+CCC Project Management Tasks - October/November 2009
+Code Generator: Handle Delayed Reads
+V.A.T. Return
+YouLink HR Client - CCC
+YouLink HR: Investigating An Increase In EMail Failures
+Dsign Processed By / Date Fields not 'fixed'
+Dsign Processed By / Date Fields not 'fixed'
+CCC_BinderManagement - Transact SQL
+CCCs Proposal
+CCCs Proposal
+Investigating Terminating Tiptree Office BT Contract
+New Items Not Flushing Primary Keys To Child Tables On Save
+Weekly Cash Summary - WSETT Issue
+YouLink HR: CCC 2014
+0060 - SCM Where Original Currency Is Old Euro Currency - Issues to Set Claim as Closed
+300 or so XXXX SCMs missing their dates -- investigate and allocate
+Acord Club Meeting - Agencyport Open Suite developments research/Latest Acord updates
+Add 'Best Practice' entry for development tasks
+Add Credit Card Table To Affiliate And Inherited Objects
+Add e-mail functionality to Authorisation sub-system in Clarity
+Add extra columns to RiskBorderauxSchedule
+Adding extra Audit fields to BMS
+Adding Extra Declaration Fields to TEST/LIVE
+Adding new Datagrid and Textbox to CCC Core - new features
+Adding new text to FLEX website - updated Key staff component
+Adding Risk Section fails when Signed
+Add more Tests to Schedule Test Report to reflect new features
+Add new fields to USM screen, FILMarketCode and Filcode2
+Adjusting the Flex SL Container DNN module
+Aiding CCC Resolve Issues With XXXX Transfer To Fallback Server
+Allow code generator to cater for non- fields with defaults set up
+Allow docking of checkboxes to right edge of panel
+Allow right alignment of controls in a panel
+Amend USM Validation Message Checks
+Archive and transfer server backups to laptop
+Autocorrection box to appear and work with SCM Line
+Backup Tape Change - 2008/37
+Backup Tape Change - 2008/37
+Binder Loader debug - incorrect Line Premium values
+BMS Bordereau Frequency
+BMS Bottom tab page not resizing properly after screen minimize then restore
+BMS User Roles - Clean and refresh.
+BNI actions, write FLEX summary for Launch event
+BNI Kensington Breakfast meeting
+BNI Meeting
+BNI meeting 01/06/11
+BNI meeting 07/09/11
+BNI meeting 09/11/11
+BNI meeting 17/08/11
+BNI Meeting 2/2/11 including Visitor Host duties
+BNI meeting 2/3/11
+BNI Meeting 4th Aug 2010
+BNI meeting 9th Feb 2011
+BNI meeting and marketing on 07/12/11
+BNI meeting on 16/11/11
+BNI meeting on 21/09/11
+BNI meeting on 23rd June 2010
+BNI meeting on 28/09/11
+BNI networking Christmas catch up - keeping contact with old networkers
+Breakfast meeting with CCC
+Bug fixes to BMS to work with current database
+Business Object data being marked as dirty when no changes have been made.
+Business Object data being marked as dirty when no changes have been made.
+CCC - Aid YYY ZZZ On Query Regarding SCM Exchange Rate Calculations
+CCC Binder Management Meeting
+CCC Binder Management System Overview
+CCC Brit Demo Technical Role
+CCC Claim Message Load
+CCC Claim Message Load
+CCC Contract Meeting
+CCC - Data Mart - Test Case Query From Northdoor Explained
+CCC Demo
+CCC Demo & Followup meeting
+CCC Demo/Prep
+CCC Disaster Recovery Query
+CCC ES Support queries - learning the system.
+CCC Launch
+CCC Licence Update (XXXX/XXXX)
+CCC Licence Update (XXXX/XXXX)
+CCC - Loader Program
+CCC - lunch
+CCC Meeting
+CCC Minor Updates Release
+CCC - Period Close Support
+CCC - Period Close Support
+CCC - RI Delete Issues
+CCC - Risk Bug - Disable Section Delete If RI Linked To Section Line
+CCC Support - Aid XXXX Feb2010  Month-End Close
+CCC Support - Aid XXXX Feb2010  Month-End Close
+CCC Support - Aid XXXX Month-End Close
+CCC Support - Wsett Broker Code Invalid Error
+CCC System - Sun Account Export Enhancements Release
+CCC System - Sun Account Export Enhancements Release
+CCC - USM Super Search Bug
+CCC - XXXX COB Codes - Report according to YYY ZZZs XXXX Class of Business codes
+CCC - XXXX Reconciliation report showing error reported
+Check for references to obsolete table RISK_LineCalculation
+Check in Latest Code - November 2008
+Check save on Notes
+Check that all is well when updating figures on large evented grid
+CiPD Networking event - 7pm start
+CiPD Networking event at Ealing for HR Consutlants - 6:30 - 9pm.
+Claim Movement Report (not daily) error
+Claim Summary Report  switch from movement level to claim level. Bug fix.
+Code Generator: Layout Enhancements
+Collect Contracts And Copy of Existing System From CCC
+Column sort on double click of column header works decending but fails to resort when clicked again descending
+Combox does not insert value into table in memory so that reference data is maintained
+Combox does not insert value into table in memory so that reference data is maintained
+Comparator: adding  to a timestamp column not needed and a syntax error
+Comparator -- minor bugs remaining
+Comparator sometimes shows wrong procedure
+Conversion not coping fully with switch from line to split event
+Create a scheduled Test for Releasing BMS
+Create New (Add New User Script) for SQL2005 (CCC Demo Database)
+Create Oasis Accrual Triangles for XXXX
+Customer Profile
+Customer satisfaction form for customers
+Dailly Server Checks - Week 26
+Dailly Server Checks - Week 27
+Dailly Server Checks - Week 28
+Daily server checks 2007/03
+Daily server checks 2007/04
+Daily server checks 2007/07
+Daily server checks 2007/08
+Daily server checks 2007/13
+Daily server checks 2007/16
+Daily server checks 2007/18
+Daily server checks 2007/20
+Daily server checks 2007/23
+Daily server checks 2007/24
+Daily server checks 2007/26
+Daily server checks 2007/27
+Daily server checks 2007/28
+Daily server checks 2007/30
+Daily server checks 2007/34
+Daily server checks 2007/36
+Daily server checks 2007/37
+Daily server checks 2007/38
+Daily server checks 2007/39
+Daily server checks 2007/41
+Daily server checks 2007/42
+Daily server checks 2007/46
+Daily server checks 2007/47
+Daily server checks 2007/48
+Daily Server Checks - Week 03
+Daily Server Checks - Week 04
+Daily Server Checks - Week 05
+Daily Server Checks - Week 07
+Daily Server Checks - Week 11
+Daily Server Checks - Week 12
+Daily Server Checks - Week 13
+Daily Server Checks - Week 14
+Daily server checks - Week 20
+Daily server checks - Week 21
+Daily server checks - Week 24
+Daily Server Checks - Week 32
+Daily Server Checks - Week 33
+Daily Server Checks - Week 34
+Daily Server Checks - Week 37
+Daily Server Checks - Week 38
+Daily Server Checks - Week 39
+Daily Server Checks - Week 40
+Daily Server Checks - Week 41
+Daily Server Checks - Week 43
+Daily Server Checks - Week 44
+Daily Server Checks - Week 45
+Daily Server Checks - Week 47
+Daily Server Checks - Week 47
+Daily Server Checks - Week 48
+Daily Server Checks - Week 48
+Daily Server Checks - Week 49
+Daily Server Checks - Week 50
+Daily Server Health Checks - 2007/02
+Daily Server Health Checks - 2007/05
+Daily Server Health Checks - 2007/09
+Daily Server Health Checks 2007/51
+Daily Server Health Checks - 2008/11
+Daily Server Health Checks - 2008/17
+Daily Server Health Checks - 2008/20
+Daily Server Health Checks - 2008/24
+Daily Server Health Checks - 2008/25
+Daily Server Health Checks - 2008/28
+Daily Server Health Checks - 2008/29
+Daily Server Health Checks - 2008/30
+Daily Server Health Checks - 2008/32
+Daily Server Health Checks - 2008/33
+Daily Server Health Checks - 2008/35
+Daily Server Health Checks - 2008/36
+Daily Server Health Checks - 2008/39
+Daily Server Health Checks - 2008/40
+Daily Server Health Checks - 2008/43
+Daily Server Health Checks - 2008/45
+Daily Server Health Checks - 2008/47
+Daily Server Health Checks - 2008/49
+Daily Server Health Checks 2009/04
+Daily Server Health Checks - 2009/08
+Daily Server Health Checks - 2009/12
+Daily Server Health Checks - 2009/13
+Dataloader not handling a certain type of apostrophe
+Diary Event reports: If 'recipient' and 'completed date' set without setting 'Supress Recipient List' to 'No' error caused
+Do Not Run User Specific Validations On Save or Load
+Do Not Run User Specific Validations On Save or Load
+Dump Run For Old Office Equipment
+Editing RISK Section Domicile Code with text causes BMS to Crash
+Enhance SiPTextBox To Handle Dates Better
+Event DOL To Be Added SCM Event Grid
+Explain/fix differences in XXXX Figures Book
+Explain/fix differences in XXXX Figures Book
+Extending Synchronisation tool to only appear if save fails
+Extend Risk Reference to 7 digits, 1 alpha, range up to 9999999Z
+External Email Provider Testing (Fastmail)
+Field access wrong after event re-caching
+Fix DCOM error on SIPSQL001
+Fixes errors in conv databases for XXXX
+Fixing Errors with ROE
+Fixing Errors with ROE
+Fixing some issues in the XXXX USM Narrative regarding line numbers
+Fixing some issues in the XXXX USM Narrative regarding line numbers
+Flex Mobile - Bug Reported in Sale Search when searching on IMEI field.
+Flex Mobile - Customer Search/Sale and Credit Invoices to select Primary Addresses only
+Flex Mobile - Daily Sales Report - Part Fund Amount Allocation Update
+Flex Mobile - Documents Required to be linked per business object
+Flex Mobile - Insurance IsActive Indicator Field Missing
+Flex Mobile - Meeting with YYY ZZZ (new manager)
+Flex Mobile - Sale Search - Allow To Search Sales on Tariffs, and Tariff Terms
+FLEX quarterly board meeting - 4th Sept 2013
+Generate CSV Scripting and Data Files In Correct Areas
+Get USM form to pick up its metadata properly
+Get V3 Task System Running On Lastest Core / Database
+Grid CSV Export Needs to work For Excel and Non-Excel CSV Readers
+Grid CSV Export Needs to work For Excel and Non-Excel CSV Readers
+Grid sometimes fails to refresh values on row when moving in same row
+Grid V3 - Problem Adding A Record On A Sorted Grid
+Halcyon Networking Event at Victoria, invited by CCC 6:30pm - 9pm
+Hide negative Primary Key ID values in TextBox
+HR Networking event at 20/20 Law, 6pm - 8pm
+Implement changes to Lubbock Fine network
+Improve Grid Cell Colouring Functionality
+Improve Masking in Texboxes And Search Control
+Inform YYY ZZZ About BMS Work
+Install IBM laptop
+Investigate and fix dead server
+Investigate Document Creation Techniques
+Investigate IIS Errors on EXC1
+Investigate linking of XXXX fac generally
+Investigate recent FTP hack attempts.
+Investigate security auditing options for Exchange Server
+ISO meeting and preparation for Jan 8th 2014
+Laptop backup and computer cleanup - Oct 2013
+Laptop Reinstall and set up
+Laptop Virus/Trojan Removal
+Large evented claims loading slowly
+Latest Code Release to Test Systems
+Latest v1.10 Dev Developments To v1.10 Test Environments
+LDEX Loader -- do not change UWRef retrospectively
+LDEX Server Issue - Failed To Pickup Messages
+LDEX Server Issue - Failed To Pickup Messages
+Line/Event linking design
+Line fixes for BMS - See Plan
+Line Premium Income - can't save when ESD% changes
+LinkEX report bug - email not selecting correct report to send out
+LinkEX Support / Bug fix, error with the Project report
+LinkPQN deployment with YYY ZZZ
+Loader to save feedback to database (for later display)
+Londond Market Messaging meeting (Dukes Place- With Xchanging)
+LTD-HQ1 And LTD-HQ2 Server Space And DR Backup Processes Meeting
+LTD-HQ2 Server Down - Disk Failure Reported
+LTD-HQ2 Server Down - Disk Failure Reported
+Lunch with YYY ZZZ
+Lunch With YYY ZZZ and YYY ZZZ
+Lunch With YYY ZZZ and YYY ZZZ
+Lunch With YYY ZZZ and YYY ZZZ
+Marketing Meeting
+Marketing Meeting
+MCP Exams Research
+Meeting At CCC To Discuss Converting EROS To SCMS
+Meeting re LDEX to XDH Conversion
+Meeting to work out how to deal with XXXX UWRefs
+Meeting with CCC
+Meeting with CCC concerning Game development
+Meeting with CCC concerning Game development
+Meeting with CCC concerning Game development
+Meeting with CCC, with YYY ZZZ from CCC
+Meeting with Council of Deans to discuss new website
+Meeting with YYY ZZZ - CCC
+Meeting with YYY ZZZ from CCC
+Meeting with YYY ZZZ - LC Keep Project manager
+Meeting with YYY ZZZ Registrar to discuss using LinkEX University wide.
+Meeting with YYY ZZZ to show YYY ZZZ (Head of Adult Nursing) the system
+Meeting YYY ZZZ concerning a version of LinkEX for CCC
+Meeting YYY ZZZ from CCC
+Merge local V3 database into latest
+Merging diary event schema into binder management database
+Message Server Down - No Messages Loaded
+Message Server  - No Messages Received 
+Message Server  - No Messages Received 
+Missing Key Press Functionality in Combobox on Search Control
+Modffy link system to use one identity column as link primary key
+Monthly back up and PC maintenance (PC was chugging)
+Movement Date and Accounting Month need some validation
+Moving BILimit field from SectionLimitType Dec to SectionType Dec
+Multiple Line SCM - Splits Cannot Be Added At Total Level.
+Multiple Line SCM - Splits Cannot Be Added At Total Level.
+Navigate to correct multi control panel when clicking validation errors
+Need to catch case where UWRef changes to a valid ref
+Nested Form in Nested Hybrid Form Not being invoked correctly
+Networking event at St Pauls 6:30 till 9pm
+New CCC Logo -- Release On SCMS
+New V3 Warehouse  Analysis
+No LDEX Messages - Help Network Administrator CCC to resolve
+Olympics Break - Team Drink
+Olympics Break - Team Drink
+Olympics Break - Team Drink
+Olympics Break - Team Drink
+Olympics Break - Team Drink
+On claims with line events on early movts, split on later, line event not cancelled
+Opening Events from History doesn't populate fields
+Opening RI Linked USM Causes Statistical Cache Error
+Orig rows should probably be read only on RI/Event grids
+OS Figures not getting updated on Movements
+OS Figures not getting updated on Movements
+Pair Programming _SCMS - Adding Functionality for Comparison
+Period Close issues raised by YYY ZZZ
+Port last local V3 Core to SiPCodeRepository
+Prepare Clarity Database For Deployment
+Problem with Flex website on Apple Safari
+Problem with Risk Copy and Renewal
+Procedure to find invalid quota share positions
+Processing Month should be set to last day not first
+Provide Mechanism For Setting Primary Key on Table Saves In Code
+PRP RI Calculation Not Giving Benefit To Non-PRP FAC When CalcOrder Set To Do So
+PRP RI Calculation Not Giving Benefit To Non-PRP FAC When CalcOrder Set To Do So
+Reference Data screen not clearing tables when switching between tables.
+Released RDC System - User Testing Support/Possible Bug Fixes
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Application To Live -- XXXX Synd
+Release Technical Core Quick Buttons
+Remaining small bug in Sun Account Export
+Reorganising Local Databases
+Reporting suite can't process filter fields that are expressions
+Requirements gathering and testing with YYY ZZZ
+Research Icon Libraries
+Restoring YYY ZZZ/RITC Databases Back To Laptop Following Demo.
+Restricted Access by CCC user - CCC Clinic
+Reviewing queries from YYY ZZZ - Claims department
+Review latest version of USM spec
+Revisiting EPI calculations for CCC
+RI Search
+Risk History not storing the last opened Risk (once 16 limit is reached)
+Risk Object Testing - For next CCC TEST release
+Risk saves to fail when risk code is not populated 
+RITC - Data Mart Meeting - Support For Issues Raised
+SCM Add Movement - slow validation, no hourglass
+SCM RI Amounts Adjustments Fail On Save
+SCMS CCC Support: Add Missing Permissions
+SCMS CCC Support - XXXX XXXX Warehouse Build
+SCMS Cover Entry Demo To YYY ZZZ
+SCM Search can exclude latest movement when UWRef used as parameter
+SCM's not displaying when no Events attatched Version 2
+SCM's not displaying when no Events attatched Version 2
+SCMS Support: XXXX 'Line Sequence Suspect Errors - Talk To IT' Need Resolving
+SCM unevented claim check on XXXX bringing back some evented items
+Search group default causes syntax error
+Search group default causes syntax error
+Section Limit not adding nor deleting
+Send brochure and cover letter to SystemsAccountants
+Send Out Job Offers To YYY ZZZ and YYY ZZZ
+Setting up LinkedIn group for CiPD networking group
+Setting up LinkPQN Document Database remotely. Last release didn't include it
+Set up BinderManagement_DEV database to CMSDMZ server
+Set up laptop for YYY ZZZ and data transfer etc.
+Setup SCMS User YYY ZZZ
+Set up spare laptop for SCMS demo.
+Set up SQL2K Laptop for YYY ZZZ
+SIP Admin Tasks
+SiP Cloud backup upload from local machine and laptop filing - Jan 2014
+SiP Code Generator - Grid Entry
+SIP-DEV2 Server Licencing issues, cannot use server licencing
+SIP-DEV Maintenance & Updates
+SiP Management Meeting
+SiP Management Meeting
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+Some USM Reports not working properly
+Sorting out issues with SelectedFiltersComparer and port to Version 3
+Sort out laptop for YYY ZZZ after burglary.
+Specification for Audit Pack Work in DAD
+SQL 2005 Install for CCC at CCC
+SQL Server still running out of memory when loading snapshots
+Statistical Data move to live system XXXX
+Statistical Data move to live system XXXX
+Sun Account Export Fixes Enhancements - also one WSETT Super Search enhancement
+Sun Account to include Ledger
+SuperUser of DEC's not allowing users to alter the DEC values
+Synchronise SCMS Comparator tables
+Syndicate figure update running slow during Validation
+Syndicate XXXX Support Fixed Incorrectley Loaded Messages (User Changed to 1804 Instead of 1803 by YYY ZZZ)
+Syndicate XXXX Warehouse Build Flag for  Nett Close (March 2008) Investigate Why Not Ticked?
+Synd XXXX - SCM Conversion Rates Bug
+Synd XXXX SCM Period Close Assistance Client Ticket Number 47106
+Tab pages on hybrid forms not getting removed properly
+Tab pages on hybrid forms not getting removed properly
+Take offsite copy of server backups
+Task System Demo
+Techy Meeting - With YYY ZZZ
+Techy Meeting - With YYY ZZZ
+Techy Meeting - With YYY ZZZ
+Techy Meeting - With YYY ZZZ
+Test and deploy latest Windows Updates.
+Testing and raising bugs in version 2
+Testing current version for DEMO at Gloucester
+Testing the XXXX restore process
+Text in header to pages and left menu needs changing
+Ticketing System Handover - Looking into work done
+Tidy up Ticketing Objects
+Understanding the Current CCC BMS processes
+Unexpected Period Close RI Quota Share errors
+Unpack at CCC
+Unpack at CCC
+Update Asset Database with new hardware details.
+Update CCC Server Licences LTD-HQ1 & LTD-HQ2
+Update Claim paid from Adjustment not Position
+Updated intenet security protocols documents
+Updating FlexSLContainer Module for Security and Caching Purposes
+User unable to search on Risk entered
+USM field access not working 
+USM Search on Business Category not working in SCMS 1.10
+USM signed Line column, can't enter neg numbers during Manual Entry.
+USM Split not saving multiple Splits.
+USM Super Search totals wrong for XXXX RI -- continued
+USM Super Search with multiple statitics in search and return
+USM Super Search with multiple statitics in search and return
+UWRef correction form saving out blanks when it should be s
+v2.1 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.2 Test System Bug Fix: Excel Export Not In correct Format
+v2.2 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.2 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2 User Testing: Reinsured Values On Newly Loaded SCMs Suspect.
+v2 User Testing: Synd XXXX Period Close Issues
+[ V3 Code and Database Synchorisation ]  SiPOffice enhancements
+V3 - Control properties not getting saved and returned in Code Gen
+V3 Ensure Indentation of generated DataChanged procedure is correct
+V3 Issues with Text/RTF fields in latest Version
+[V3 SiPDocument ]  Allow user to change a single revision document to a multi from the checkin option dialog
+V3 User Action Refresh Speed Issue
+V3 - User Action Save Fails
+V3 / V2 - CheckboxWithLabel - check box not checked when clicking on label (unlike default MS behaviour)
+Various Updates to Splitter Control
+Version 3 Bug Management
+Web Development Tools - Looking Into Silverlight
+WebSiteBuilder - Extending Non Secure Account Controller
+When adding a dec, RISK_SectionTypeDeclaration is not added.
+Workflow Overview Report for YYY ZZZ
+XXXX Audit - SCMS Details 
+XXXX claim 60147511207 has  risklineid
+XXXX claim 60147511207 has  risklineid
+XXXX New 1.9 Test Warehouse Build/Compare Figures With Live
+XXXX New Data Cut Restore/Run Conversion Scripts.
+XXXX Period Close assistance
+XXXX Period Close Split Complete Errors From Past Months Reported
+XXXX SCM Equitas data script
+XXXX SCM paid figures way out - work out extent of problem, and why, and fix
+XXXX SCM super search changes
+XXXX USM Super Search to show split stat codes on outward transactions
+XXXX USM Validation RI Matching Bug
+XXXX USM Validation RI Matching Bug
+XXXX XXXX ROE Analysis and Comparison
+XXXX XXXX ROE Analysis and Comparison
+YouLink HR Pitch side banners design for CCC
+YYY ZZZ - CCC
+YYY ZZZ meeting to discuss report and fix problem with monthly report
+YYY ZZZ's Birthday Drinks
+YYY ZZZ's Birthday Drinks
+YYY ZZZ's Birthday Drinks
+YYY ZZZs Split And XLsior Difference
+YYY ZZZ support, LinkEX running slowy on network
+YYY ZZZ Syndicate XXXX Conversion Meeting
+YYY ZZZ & YYY ZZZ CCC Leaving Doo
+YouLink HR: General Support Tasks July
+CCC Technical Project Management - September 2008
+e-HR V2 Client Setup - CCC
+Getting code generator up and ready
+Getting code generator up and ready
+Report Server: Document Generation From Templates
+CCC_SCMS - Reviewd Stored procedures
+CCC Upload Control
+Deleting Dependancies Is Failing
+ISO 9001 Preparation
+Remove grid and replace with drop down list on Fanzone and Download Page
+When Status Bar Says Fetching.. The Pointer Should Change To HourGlass
+When Status Bar Says Fetching.. The Pointer Should Change To HourGlass
+Sender Policy Framework Issue With Our DNS EMail Record
+Add an Execute button for individual tasks in a block
+Creating Cables for the YYY ZZZ Office
+Add Automatic SP and Trigger Encryption From Within The Code Generator
+CCC Adding Additional Companies
+CCC Demo
+CCC - Marketing Meeting
+CCC - Marketing Meeting
+YouLink HR - Data Protection Act Workflow
+CCC IRIS Migration Meeting
+CCC Meetup
+Code Generator: Add Template Files for BO and Forms
+Daily Management Tasks - March 2011
+Populate Risk_LinePremiumExposureHistory
+Put dividers and order search fields
+ISO 9001 Setup
+Microsoft Visual Studio Partner Programme Licencing
+Licence Generation 2011
+Add Syllabus section for Ko-Budo levels.
+Aid XXXX (XXXX, XXXX) Period Close
+Allow free type in Lookup Button Columns
+Allow free type in Lookup Button Columns
+Allow free type in Lookup Button Columns
+BMS Risk Load Slow - Investigate and Correct
+CCC - Initial site visit and network audit
+CCC Licence
+CCC Licence
+CCC Migration: XXXX/XXXX MI Reports Gap Analysis
+CCC - Rate of Exchange Update - Load To Test, If OK'd By Users, Load To Live
+CCC - Rate of Exchange Update - Load To Test, If OK'd By Users, Load To Live
+CCC Support - Aid YYY With XXXX XXXX and XXXX Dec08 Close
+CCC - System Metrics Queries
+CCC System Release - <Awaiting Release>
+CCC - XXXX Incomplete Diary Events Owner Update
+Check and install new laptop
+Clarity: Task sometimes still marked as dirty after a save
+Corporate Claim Bugs found in User Testing
+Corporate Claim Bugs found in User Testing
+Create Additional Search Capability For Coverholders
+Create Mobile Phone POS Repair Business Object
+Dailly Server Checks - Week 25
+Daily server checks 2007/01
+Daily server checks 2007/06
+Daily server checks 2007/17
+Daily server checks 2007/32
+Daily Server Checks - Week 06
+Daily server checks - Week 23
+Daily Server Checks - Week 39
+Daily Server Checks - Week 40
+Daily Server Checks - Week 42
+Daily Server Checks - Week 45
+Daily Server Checks - Week 51
+Daily Server Health Checks 2007/50
+Daily Server Health Checks - 2008/16
+Daily Server Health Checks - 2008/38
+Daily Server Health Checks - 2008/41
+Daily Server Health Checks - 2008/44
+Decommision SCMS Synd XXXX, XXXX, XXXX at CCC, And Renew Synd XXXX, XXXX Licences
+Deduction Table error, User edits part of Composite Key
+Estimating Borderaux Management and Premium/Claims Recording
+Flex Mobile-Customer entry screen - mandatory to add customer address and email on entry
+Flex Mobile - Error in Sale ID's generated, jumped forward by 2.
+Flex Mobile - Meeting to obtain bug list from YYY ZZZ
+Flush plain text to database from RTF field
+Flush plain text to database from RTF field
+Getting BMS code to compile and work with current CCC_BinderManagement_LIVE ready for extra work
+Investigate FTP login attempt
+Investigate Visio / Project 2007 Licensing Issue
+Investigate YYY ZZZ's SQL Errors
+IT support contract with Silverbug, liasing with YYY ZZZ
+Looking into performance of nested forms in V3
+Marketing Meeting - Flex Brochure 1st draft and feedback
+Marketing Meeting - Flex Brochure 1st draft and feedback
+Meeting YYY ZZZ For An Extended Lunch
+Merge changes from Laptop to BizDev 1 and J:\ Drive
+Moving desk for new office layout. Getting all IT up to speed
+Organise Latest Windows Updates
+Released new Version from DEV to TEST - YYY ZZZ added changes that was required urgently
+Releasing current changes CMSHQ1
+Releasing current system for new changes
+Revert Risk Reference back to 6 char's and update SP that generates the Risk Ref
+Review/Meeting -- Check in of CORE/SCMS changes
+Review/Meeting -- Check in of CORE/SCMS changes
+RI Super Search 2 - for XXXX requires converting to v2
+RITC Data Mart - Meeting To Discuss Event Code Level Movt Extract Questions/Requirements
+RITC - Data Mart Support - Queries on OS Sett Position/Movement Calculations
+RI Testing
+SCMS - CCC Support
+SCMS Support - XXXX Live - 'Line Sequnce No Suspect..' SCM validation errors fix
+SCMS v2.1 - SCM's Not Working In ReadOnly Mode (in roleUsersAll)
+SIPL Meeting To Discuss Lloyd's Work In 2015
+SIP Office - Internet Issue
+SIP Office - Internet Issue
+Syndicate XXXX data Warehouse Advice
+Syndicate XXXX data Warehouse Advice
+Synd XXXX - Calculating Syndicate Adjustments Not Working Correctly
+Synd XXXX - Calculating Syndicate Adjustments Not Working Correctly
+Test and deploy WSUS SP1 on live servers.
+Testing New Menuing Structure Within Diary Events
+Testing New Menuing Structure Within Diary Events
+UGD - Supporting switch to OBS WAN Link
+Upgrade cube PC CD-Writer 
+User Saved Queries - Covnverison from v1.9 field names to v1.10
+v2 SCMS User Testing - Flexible Claims Report Not Working Correctly
+v2 test message load failures - resolve.
+v2 User Testing: Manual Movement Entry Fails To Save.
+V3 - Certain mandatory validation errors not appearing
+Various CCC Review Meetings
+When changing Sections, Premium table not refreshing Field access
+Write and Store The New SiP / CCC Working Practices Documents
+XLSior Extracts And Related 'Drill Downs' Procedures - Conv To v2.
+YouLink HR Direct customers help and assistance
+YYY ZZZ - XXXX USM Message Issue
+YYY ZZZ - XXXX USM Message Issue
+CCC Message Load Issue
+System.IO Windows Bug - Long Filenames Cause The Classes To Fail
+Add an additional return column to SCMSuperSearch
+e-HR Contract Signing
+Going through YYY ZZZ's Binder Loader before his 1 week holiday
+Marked For Deletion Default On Search Screen Annoys Users
+Risk Manual Entry Option Should Be Unavailable If User Not In RoleUsersRisk
+SiP Board Meeting
+When Resizing Columns On Grids Data Auto Sorts Itself
+YouLink HR: CCC 2012
+YouLink HR: Allow Maintenance Job To Run When Required
+CCC Migration Management
+Health and Safety Questionnaire for YYY ZZZ's College
+Update Startup Document And Request New Properties
+Daily validation - RI
+Reviewing CCC Support Contract
+YouLink HR: CCC 2013
+EMail Sender Adding Additional Exclusions Due To Out Of Office Bounce Backs
+Grid 'Selected Cell' Colouring
+Move After Update Events Into Database Rather Than Relying On Silverlight
+ISO 9001: Meeting Preparation
+Populating the ISO Review Schedule for Next Wed's (8th Jan) Meeting
+Reviewing The SCRUM Project Management Process
+Coding - Validation of references
+Staff Manager: Release v1.0.4048.*
+Visual Studio playing up whilst switching CORE's in SCMS
+CCC Project Management Tasks - June 2009
+E-HR v2 Client: CCC 2013
+Write CCC Job Specification for Undergraduates
+Write CCC Job Specification for Undergraduates
+CCC Migration: XXXX Reference Data
+CCC Migration: XXXX Reference Data
+CCC Authorisation Groups Migration
+E-HR V2 Client - CCC 2011
+CCC Contract Work
+YouLink HR: Masked Text Box Not Working On Mac's
+Set up on Client view the company specific, complex login required for when they go to self service. 
+Cancelling YYY ZZZ Office Space
+YouLink HR: Create Wizard To View Financial Package Entries
+13311,"CCC - Potential Data conversion to Eclipse ""Lite" Meeting
+9367,"Syndicate specific stored procedure for SCM Validation ""Unexpected New Line Error" (XXXX XXXX)
+Add Ability to Record Work Items to Task System
+Add clear button to LookupTextBox control
+Adding new Risk Business type using new method of One Declaration Table
+Adding/Updating RI Layer Stat Codes Vis Lookup Fails
+Adding/Updating RI Layer Stat Codes Vis Lookup Fails
+Add Multi Day Ranges To The Daily Effort Report
+Add tooltip to Contra indicator and display Description in field
+Aid Developer Tasks
+Allow hybrid forms to contain other embedded hybrid forms
+Apply new SSL Key in Microsoft .pxb format  POP3 Mail and SiP Web Server
+Apply the syndicate line amount to the SCM outstandings
+Assisting CCC Desktop PC Upgrade for users - To ensure SCMS functions correctly on new Desktops. 
+Attending CCC group at 8am
+Audit reset: reset not needed, but review in Period Close is
+B2B Marketing - Learning about CIM practices through extra reading
+Backing up live version of Database and setting up local for training course
+Backup tape change
+Backup tape change
+Balanced Scoarecard
+Big Risk Reference Tables need to be cached
+Binder Management Risk Enhancements Meeting
+BMS Bordereau Days of grace - adding/subtracting days does not recalculate schedule
+BMS Email Chaser to include Policies with Mulitple Lines
+BMS Live Release - Merging Database and Code to current SCMS version
+BNI Kensington at 6:45am
+BNI marketing meeting 30/06/2010
+BNI meeting 01/02/12
+BNI meeting 10/08/11
+BNI Meeting 1/12/10
+BNI meeting 12/05/2010
+BNI meeting 12/10/11
+BNI Meeting 15/12/2010
+BNI meeting 17th Feb 2010
+BNI meeting 19/05/2010
+BNI meeting 20/10/10
+BNI meeting 23th Feb 2010
+BNI Meeting 24/03/10
+BNI Meeting 24/11/10
+BNI Meeting 26/01/11
+BNI meeting 27th Jan 2010
+BNI meeting 30/3/11
+BNI meeting 6th April 2011
+BNI Meeting 8/09/10
+BNI meeting 8/6/11
+BNI meeting and marketing on 30/11/11
+BNI Meeting for 20/01/10
+BNI meeting for 23/2/11
+BNI meeting on 15/09/10
+BNI meeting on 16/02/11
+BNI meeting on 18/01/12
+BNI Meeting on 2/6/10
+BNI meeting on 3rd Aug 2011
+BNI meeting on 4th Jan 2012
+BNI networking meeting 24/8/11
+Breakfast meeting at CCC with CCC
+Bug fixes in Stored Procedure Renamer
+Bug Fix with LinkEX Report, email errors when sending reports
+Bug found with comma's in Textboxes regarding numbers with letters (K, M, Bn)
+Bug with Lesley Saunders's system, multiple authorisation managers
+Business Object Summary Row Identification Mechanism
+Can't peform document user actions when on results tab
+CCC Binder Management Meeting
+CCC Binder Management Meeting
+CCC/CCC Documents: review/add
+CCC Content
+CCC Demo
+CCC Demo
+CCC Demo
+CCC Lawyers
+CCC Marketing Meeting 10th September 2008
+CCC Marketing Meeting 10th September 2008
+CCC Marketing Meeting - FLEX
+CCC Marketing Meeting - FLEX
+CCC Meeting and Lunch
+CCC Meeting re. Finance
+CCC Meeting re. Finance
+CCC Migration: XXXX/XXXX UAT Iteration 
+CCC Payment Validation Rules - Corrections To Definitions
+CCC - Period Close Support
+CCC Request For Database Diagrams for SCMS
+CCC SCMS Cover Entry Meeting
+CCC - SCMS Update Query To Correct ROE on XXXX/XXXX SCM Adjustment/Postion Tables
+CCC Support - Aid Month End Close Process
+CCC support, investigating Order % on Line
+CCC support, investigating Order % on Line
+CCC Support - Missing Claims Messages Reported
+CCC Support - Setup Super Search Entry For User
+CCC System Release - 2.2.3058.29421 From Test To Live
+CCC Test Web Site Deployment
+CCC Throngmorten Demo at CCC Offices
+CCC - USM Validation Checks Support
+CCC Warehouse/Transaction DBs Backup To External HDD Before Server Battery Change
+CCC - XXXX/XXXX Warehouse Build Support
+Certain XXXX Claims fail to open
+Check database security on SiP Website
+Check Fac Linking and Report (XXXX)
+Check figures between all test and live databases
+Checking In Technical Core and SCMS
+Check in Latest Code - December 2008
+Check in Latest Code - October 2008
+Check that RI card opens in usable time, e.g. on XXXX
+CiPD networking meeting at BPP, St Mary's Axe
+Clarity: Add Location Drop Down Field To Effort Table
+Code Generator Demo to YYY ZZZ
+Code Generator Multi Control Display Broken
+Code Generator Multi Control Display Broken
+Code Gen Evaluation Questionnaire
+Code Gen Review and Questionnaire 
+Combo column sorts in grid based on Value Member and not Display Member
+Conversion script gets a small number of historic OSs wrong
+Convert Diary Event via Code Generator
+Create Default setting for Document Type when adding Risk Documents
+Created Script to generate Database Diagrams
+Create Grid Property to always show add/delete buttons even if both are disabled
+Create Grid Property to always show add/delete buttons even if both are disabled
+Create mechanism to allow front end data to be flushed to controls in special required scenarios 
+Create Mobile Phone POS Insurance Business Object
+Creating dummy LinkEX database with sensitive data removed for demonstration purposes.
+Creating StageCode report for LinkEX
+CSV Generator adds extra commas each time it is regenerate
+DAD System UI Modifications
+Daily Backups Debugging
+Daily Claims Report Not Working On XXXX Test
+Daily Server Checks - Week 02
+Daily Server Health Checks - 2007/07
+Daily Server Health Checks - 2008/46
+DataConversionTool - Re-Architecturing Logging
+Delayed Filtering Causing Problems with Combo Boxes
+Delete button on grid not being enabled when a row is added to top of grid
+Delete button on grid not being enabled when a row is added to top of grid
+Demo the Accouts Import loader to YYY ZZZ/YYY ZZZ
+Dependancy should be spelt Dependency
+Deploying, creating and testing new Licence for YYY ZZZ's LinkEX
+Designer not working in Visual Studio
+Diary Event Bug -- See Plan
+Diary Event Field Access On Delete Not Correct.
+Diary Event Field Access On Delete Not Correct.
+Discussing Tax Issues With Company Accountant To Development Claim
+Document Bugs Found in CCC - see plan for bugs found
+Document new Distribution List functionality
+Document Procedure for creating Business Object
+Double check live databases for syndicate figure synchronisation
+Driving into Old Street to help YYY ZZZ move servers to Server City
+Duplicate customer entires with duplicate sales linked - need to write update to remove.
+Duplicate entries appearing in XXXX's SCMs
+Duplicate entries appearing in XXXX's SCMs
+e-HR v2 Training session with CCC
+Email catch up after holiday
+Email catch up after holiday
+Email correspondence with YYY ZZZ regarding XXXX period close
+Enhancements from YYY ZZZ - see plan
+Exchange Rate Bug in Figures Books/Triangles
+Existing Decs in Risk Screen should be read only
+Exit dialog box shown twice when exiting the app, only when used from File.Exit
+Extended Lunch
+Extended Lunch
+Extended Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Field Access not being set on Audts following secondary schedule edit + diary event view
+Finalise SCM Schema
+Fixing issues with Auto Refresh Functionality
+Fixing Office Internet Failure - CCC Office Static IP Assignment Error
+Fix The Weekly Performance Report
+Flexible Claim Report Update And Testing
+Flexible Claim Report Update And Testing
+FLEX marketing, getting mailing list complete
+Flex Mobile - Accessory ID - Request to have it display on Detail and Search Screens
+Flex Mobile - Deposits to show payment method selection
+Flex Mobile - Meeting With CCC/YYY ZZZ To Discuss Requirements
+Flex Mobile - New Version Rollout To Live
+Flex Mobile - Old handsets under repair marked sold, keep returning
+Flex Mobile - Update SIP_DEV With Latest Local Updates
+Flex Mobile: User reported error accessing reports
+Flex Mobile: VAT override combobox
+Form Titles in Diary Events
+Framework Data Grid Not Auto Sizing Correctly
+Framework Data Grid Not Auto Sizing Correctly
+Gathering data for CCC and Potential white label
+Genrating some very high level RI documentation
+Get Accounts Importer working for XXXX's split data
+Get Accounts Importer working for XXXX's split data
+Get Latest System Up And Running.
+Getting new transaction data from YYY ZZZ.
+Getting YYY ZZZ Setup
+Going through emails and catching up after holiday.
+Going through our WL Contract with YYY ZZZ and background reading
+Halcyon Networking event - 6pm - 9pm
+Help YYY ZZZ prepare documents/spreadsheet comparisons for Auditor YYY ZZZ from 1111 (XXXX Auditor's visit)
+hybrid control
+Identify and Manually correct some XXXX CCCs USM Splits on behalf of end users
+If validation breaks, validation errors may be cleared from period close
+Import Simple Syndicate-specific data
+Improve / Fix User handling is Clarity
+Inland Revenue Meeting plus Preparation
+Install spare laptop for YYY ZZZ
+Install Visual Studio 2013 and Clean Up Snapshots etc (incl installing updates)
+Insured/ReInsured Set up on risk and main indicator Synd XXXX
+Investigate and fix differences between June and September triangles (XXXX)
+Investigate negative outstandings in XXXX triangles
+Investigate & Resolve Warehouse failure to buide XXXX
+Investigating hanging issues with SCMS 
+ISO Compliance and Progress Meeting
+ISO Compliance and Progress Meeting
+ISO Compliance and Progress Meeting
+Issue with USM Reconciliations For Converted Months - Bug With Xchanging Reconciliation
+Issue with USM Reconciliations For Converted Months - Bug With Xchanging Reconciliation
+Join ACORD IT Club; investigate/join ACORD; re-join CMMG
+LC Meeting with Professor YYY ZZZ
+Learning about ClickHR from YYY ZZZ
+Learning about ClickHR from YYY ZZZ
+Learning about the  Risk Schema
+LinkEX: Preparing local machine ready for LinkEX training at CCC on 18th June
+LinkEX RAG report failing due to new SP released
+LinkEX Training to YYY ZZZ
+LinkPQN -  Add PQN Withdrawal Reasons field with drop-down entries
+LinkPQN - CPM No of Students On Course 10 Weeks After Start Date -  Rule Update
+LinkPQN progress meeting with YYY ZZZ University
+LinkPQN - Update Fund Codes As Advised And Show On Student Screen
+LIRMA messaging for our Loader/ lancashire
+Loader and SCM tables to cope with snapshots
+Login bug on CCC website.
+Looking into faking mobile web apps as native apps on Apple devices
+Looking through diary event code
+Lookup Grid Combo Box Not Displaying Properly
+LTD-HQ1 performance problems
+Management Meeting and Catch up after meeting
+Management Meeting and Catch up after meeting
+Management meeting with Directors
+Management meeting with Directors
+Management meeting with Directors
+Management meeting with YYY ZZZ, update on LinkEX Portal efforts and YouLink HR updates
+Management meeting with YYY ZZZ, update on LinkEX Portal efforts and YouLink HR updates
+Managment Meeting
+Manual correct invalid XXXX SCM Lines (Causing failures in Validation) 28/02/2007
+Marketing Meeting for Flex Brochure
+Marketing Meeting for Flex Brochure
+Marketing Meeting with CCC 25/06/08
+Marketing Meeting with CCC 25/06/08
+Marketing: Signing up to free seminar at Earls Court Multi-Channel marketing and media event
+Marketing tasks - Reseach into CCC and other providers competing against LinkEX Portal
+Market research into other HR products
+Meeting re. recent ructions at CCC CCC
+Meeting re. recent ructions at CCC CCC
+Meeting Tiptree
+Meeting with CCC
+Meeting with CCC
+Meeting with CCC
+Meeting with CCC - BNI 1-2-1s
+Meeting with CCC - BNI contact
+Meeting with CCC - discussing what they need
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ and YYY ZZZ to discuss CCC
+Meeting with YYY ZZZ and YYY ZZZ to discuss Coverholder system / CCC Demo
+Meeting with YYY ZZZ from CCC
+Meeting with YYY ZZZ from CCC concerning potential
+Meeting with YYY ZZZ of CCC
+Meeting with YYY ZZZ to show current System to their IT department
+Meeting YYY ZZZ
+Meeting YYY ZZZ
+Meeting YYY ZZZ RE: Syndicate XXXX Network/Admin Access Setup
+Merge Diary Event Bug Fixes To Dev Database
+Merge YYY ZZZ changes to UWRCorrection History to SCMS
+Merging in changes to live database
+Mini Dec Synchronisation is duplicating the Line/Deduction and LineIncomePremium
+Modify SiP Comparator To Handle Task System META and REF Tables
+Modify SiP Comparator To Handle Task System META and REF Tables
+Need to be able to split a claim that is already line evented
+Networking meeting with YYY ZZZ of CCC
+New Bordereaux Spreadsheet to be uploaded
+New Live machine setup and configuration
+New presentation slides for meeting at CCC
+New Sip Extranet Application
+New USM Loader .Net2 Release With Ref Data Populate Issues On Live Server
+Notes control not flushing data correctly
+Obscuring/Protecting YouLink HR Code
+Office Desk Move
+Office Desk Move
+Outstanding figures getting updated to value other than that they are set to
+Outstanding figures getting updated to value other than that they are set to
+Outstanding Tasks/To Do's items management (Microsoft Office OneNote)
+People Managment Directory
+Playing Catch Up
+Predefined Export FileName Functionality On Grids Missing On v2.
+Premium Income Extract Required
+Prepare test server for Health Monitor system
+Preparing and Attending The Public Procurement Show - Earls Court
+Preparing and doing demo to CCC
+Problem with client sign up screen and truncating strings during employer set up
+Provide simple method for opening up and running reports directly in code
+Provide simple method for opening up and running reports directly in code
+QMS Action Database
+RDC Estimate and Review Meeting
+RDC Estimate and Review Meeting
+Reinstall old Evesham laptop for VS2005 testing
+Reinstall spare laptop for YYY ZZZ
+Release Coverholder TEST system for Demo
+Release Coverholder TEST system for Demo
+Release latest Coverholder/Audit changes to YYY ZZZ
+Release SCMS Application To Live - XXXX Synd
+Release SCMS Application To Live -- XXXX Synd
+Release Task System v 4.0.2103.25713
+Release Technical Core 1.6.2140.20887
+Release Technical Core 1.6.2140.20887
+Release Technical Core and SCMS
+Releasing BMS to TEST on CMSHQ1
+Releasing BMS to TEST on CMSHQ1
+Releasing Current version from DEV to TEST on CMSHQ1
+Releasing LinkEX to 5 new users for YYY ZZZ
+Reviewed Progress on Binder Management to Date
+Reviewed Progress on Binder Management to Date
+Reviewed Reference and Code Generator database and Code
+Review Server Hardware Firewall Logs - Generated from CISCO-PIX Router
+Re-work syndicate reserving system
+RI Calculation running amok with split RI
+RichTextBox Not Flushing Data Updates
+Risk Signed Indicator sets itself to signed on save.
+Risk V3 Port - Removing all Customer tables and using Affiliate Tables
+Risk Validation Bug Fix for Deleted Risks
+Risk Validation Bug Fix for Deleted Risks
+Risk Validation Bug Fix for Deleted Risks
+RI Type Error, adding 'unknown' to drop down
+ROE Analysis/Corrections - Causing Differences in figures. XXXX Test
+Sales meeting with CCC
+Sales Strategy documentation including timeline as discussed in meeting
+SCM Line Eventing
+SCM Manual Entry -- Claim Ref Generated Needs To Have Correct Policy YOA
+SCMS Binder Management Demo for CCC
+SCMS CCC Support: USM Save/Close Issues
+SCM Search fouling up on parameter 'Event IS '
+SCM Search With Parameters Movement Date > 26 Jul 07 and Show Incorrect Split Items Only Errors
+SCM Split Importer - Dev to v2.2 Test Systems Release
+SCMS Support - XXXX Live - 'Line Sequnce No Suspect..' SCM validation errors fix
+SCM Validation To Handle Month End Messages Where Despatch Date > Month End Date
+Setting up SiP-DEV Database with CCC_DEV database
+Setting up User Permissions on LinkPQN
+SIP Admin Tasks
+SIP Admin Tasks
+SIP Admin Tasks - Laptop Setup
+SIP Admin Tasks - Laptop Setup
+SiP Board Meeting
+SiPCodeGenerator Job Evaluation
+SiP Code Generator: Spike - Add Files Directly Into Projects
+SiPDecision Table Rewrite
+SIP Extended Lunch
+SIP Extended Lunch
+SIP Extended Lunch
+SIPL Meeting/Lunch
+SIPL Meeting/Lunch
+SIPL Meeting/Lunch
+SiP Management
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiPUWRCorrection unable to add new
+Speeding up REF_Audit table data fetch
+Splitting a claim for first time: get behaviour exactly right
+SQL Code to scan database permissions for errors.
+Staff amending holidays following booking
+Staff Meeting
+Staff Meeting
+Staff Meeting
+Staff Meeting
+Staff Meeting
+Staff Meeting
+Stats processing
+Super Search Save Query Fails
+Supporting YYY ZZZ and CCC in YYY ZZZ's absence
+Switch XXXX SCM Split check to nett close - check field accesses still work
+Synchronise Diary Event Changes From Demo
+Syndicate XXXX Conversion to Iris Initial Reconcilation Help YYY ZZZ Ticket 43394
+Synd XXXX - Add links between RI and Risks for user
+Synd XXXX -- Claim U 94000000029 -- amount has changed
+Synd XXXX - SCM Items Which Have Wrong Policy Attached Them at 31/12/2007
+Synd XXXX - SCM Items Which Have Wrong Policy Attached Them at 31/12/2007
+Synd XXXX: various small figures glitches
+Team Meeting
+Team Meeting
+Team Meeting
+Test and Deploy Latest Security Patches
+Testing fix in panel to prevent flickering
+Testing fix in panel to prevent flickering
+Test SCMS Bandwidth Requirements
+Time in Lieu For Late Night Working On Diary Events
+Time in Lieu For Late Night Working On Diary Events
+Triangles to use correct exchange rates for pre-FigureBase months
+UCM Load broken in .NET 2
+UGD - Enable access to Talisma server in India
+Unexpected period close Split Complete errors
+Update Conversion Base database for v.1.10
+Update XXXX 1.9 Warehouse with recent changes
+Updating donhost 
+Updating YouLink FAQs for White labellers during demos
+User actions not being refreshed with nested forms
+User support errors in searches due to invalid metadata 
+User Support -- Synd XXXX Specific USMMatching RI Check Setup
+USM and SCM Line grids to show Original UWRef
+USM Line Layer/Risk IDs Not Updating On UWRef Change Via Super User On Posted USMs
+USM Line Layer/Risk IDs Not Updating On UWRef Change Via Super User On Posted USMs
+USM Proportional Accruals SuperSearch
+USM/SCM figure discrepency
+USM Search fields are repeated (Line Statistics)
+USM Split -- Add Trust Fund Column. Make It Viewable,Editable In Front End
+USM Split Lockdown On Transactions In Past Nett Closed Months
+USM Split Save error
+USM Super search doubling up figures for some transactions(Synd XXXX) version2 SCMS
+USM Treaty glitches
+v2.1 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.1 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.1 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.2 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2 Risk Validation - Build History Procedure Breaks Validation
+v2 Test System SCM Message debugging load failing on XXXX
+[V3 - Document ]  Enhance document to allow the user to delete the local copy on a check in
+[V3 Document] Purge Revisions Document dialog has SiP grid icons missing
+[V3 Document] Purge Revisions Document dialog has SiP grid icons missing
+V3 - Entering data and doing sorts on properties grid in code gen results in columns being out of sync
+V3 Filtering issue with obtaining primary key column
+V3 Nested forms not closing properly
+V3 - Output Control Sizes Action Won't Disappear
+V3 Problems with Grids not Directly Bound To Business Objects
+V3 Problems with Grids not Directly Bound To Business Objects
+[ V3 SiPDocument ]  Testing the SiPPlugin features
+V3 Sizing issues with nested forms
+V3 Super Search Bug
+Validation error prevents SCM line corrections from saving
+Validation Errors Disappear Upon Business Object Lookup
+Validations from front end not taking proper account of success code
+Version 2 - User Training  (XXXX & XXXX) Users
+Warehouse OS figures differ from SCM Search
+WebAdmin Email Fix
+WebAdmin Email Fix
+WebSiteBuilder Release - March 2013
+Website Meeting
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+Weekly Developer Meeting 27th June 2007 - General Catch-Up
+When Undeleting Diary Event. If user not ackowledged action and another action carried out. the action requiring acknowledgement can't be acknowledged
+WPF project catch up with YYY ZZZ to convert LinkEX
+WPF project catch up with YYY ZZZ to convert LinkEX
+Write Task System Marketing Sheet
+Write Task System Marketing Sheet
+Writing Functional Specification for YYY ZZZ contract
+XXXX and XXXX Statistics not being displayed in version 2
+XXXX conv validation problems with USM and SCM data old YOA's
+XXXX event searches causing exceptions and slow
+XXXX Figures book changes
+XXXX Figures book changes
+XXXX Live faill to add manual claim, validation errors remain 
+XXXX msg 191  UWRef changes to handle situation (SCM Validation failure)
+XXXX Period Close Feb help with Error item corrections
+XXXX Period Close RI Quota Share Errors - Fix
+XXXX Risk Line Splits Identifying and Correcting using COB code rules
+XXXX Sign off document review work
+XXXX Statistics and Figures Book
+XXXX System support
+XXXX Test - Investigate possible Validation glitch (see Plan)
+XXXX Test - SCM Validation Failed
+XXXX Unique check placed on USM Splits
+XXXX Unique check placed on USM Splits
+XXXX User Support: Aid YYY ZZZ's SCM validation errors corrections
+XXXX USM Validatrion failing
+XXXX USM Validatrion failing
+XXXX Warehouse: RI stat codes missing
+XXXX XLsior Extract not matching v.1
+YouLink HR Demonstration to YYY ZZZ - CCC
+YouLink HR Demonstration to YYY ZZZ - CCC
+YYY ZZZ Bug fix, issue with nightly download
+YYY ZZZ data conversion queries for CCC
+YYY ZZZ LinkEx System Introduction and Users Introduction  At  YYY ZZZ To Aid Support Work
+YYY ZZZ Meeting to discuss new reports. Also looking at an error with the automatic Monthly download
+YYY ZZZ - Meeting to discuss Reconciliation Files
+YYY ZZZ - Meeting to discuss Reconciliation Files
+YYY ZZZ Meeting - Understanding Staff spreadsheet
+YYY ZZZ - Month-End  Period Close Support
+YYY ZZZ raised query regarding USM figures on LPSO No 81023 Date:05March2002
+YYY ZZZ Synd XXXX Conversion - Progress Meeting With YYY ZZZ - 26 Jul 2011
+YYY ZZZ Synd XXXX Conversion - Progress Meeting With YYY ZZZ - 26 Jul 2011
+YYY ZZZ [UCCYREP - (Underwriting - Country Codes)] Updates
+YYY ZZZ - USM Message load issue reported
+Release SCMS Warehouse To Live -- XXXX Synd
+YouLink HR: Add Year To Date Calculations For Financial Package
+Home PC Died On Sunday - Trying To Recover Outlook EMail
+YouLink HR: Add CPPD Activity Type Reference Manager
+Code Generator: Unit Test Issue - Trying To Copy The Wrong File
+Improve Data & Licence Server GUI Responsiveness
+Gather Update Information for YYY ZZZ
+ISO Management Meeting Notes
+Pair Programming
+YouLink HR: EMail Sender - Trying To Identify Exception Causing 'Failure Sending EMail'
+RI fails to save when RI type field is left empty
+Working with YYY ZZZ to solve a problem for XXXX with report C63
+Move the KeePass Data To SiP Cloud and Clean The Data 
+Sorting Out Late Night Access For The Painters To Spruce Up The Tiptree Office
+YouLink HR: EMail Sender - Failing To Send Emails To Auto Generated Office Manager Lists
+YouLink HR: Spelling Mistake Corrections
+YouLink HR: Unable to Delete Reporting Line With No Assigned Current Staff
+Staff Manager Connection Issue
+Validation Rule for at least 1 main indicator in Risk not firing.
+Validation Rule for at least 1 main indicator in Risk not firing.
+Colour Binding Spike within WPF Front End
+Chasing and Assisting Silverbug with SSL Cert Renewal
+DataWarehouse Meeting
+DataWarehouse Meeting
+DataWarehouse Meeting
+ISO Compile and Write Submission
+Period Close for CCC - Help YYY ZZZ
+Period Close for CCC - Help YYY ZZZ
+SiP Working Overview Document for CCC Proposal
+Installing FLEX.StaffManager Locally On YYY ZZZ's Machine
+Investigating Expression Blend For Building WPF Data Conversion Front End
+Web Site Generator Front End
+Added Summation Range Comparison on Code Gen
+Adding DEC with API figure is causing problems with Synchronisation
+Applied new Core to BMS (local and BizDev1 - including uploading new database)
+Binder Management Review with Adrian Bye
+BNI meeting 14/07/10
+Client Support: DB Copy Jobs Working But Generating Errors On Server - Debug
+Code Generator Changes To Comparator Fields
+Code Generator - XML Output Remove TimeStamp Fields
+Daily Server Checks - Week 46
+Daily Server Health Checks 2009/01
+Data Grid Cell Type Combo Grids Causing Memory Leaks
+Diary Events - Updates for CCC
+Flex Mobile - Allow Barcode Scanning of AcessoryID and use it to populate other related fields
+Get New Task System Up and Running on Latest Code/Database
+Inestigate RPC over HTTPS for Outlook
+Investigate ISO Accreditation.
+Investigate VSS errors on SQL1
+LinkPQ specs and discussion on how to take forward
+Meeting with CCC to Discuss BMS
+Microsoft Program References
+Msg Summary Linked SCM Search Msg XXX title does not go if researched with dif criteria.
+New Laptop
+Prepare Proposal for new server backup software.
+Problem with Reporting Services on local machine, issue with CCC loosing credentials from previous checkins
+Provide Functionality To Show Referenced Names As ToolTips Inside The Grid
+Put temporary website live
+Reading New Employment Contracts
+Recover data from faulty hard disk.
+Reinstall office Cube PC
+Release SCMS Application To Live --XXXX Synd
+Release SCMS Application To Live -- XXXX Synd Split Loader
+Release V2 of CCC website and test.
+Release V2 of CCC website and test.
+Request from accounts user to investigate risk Underwriting Refs and matching up  SCM's
+Risk Grid Paint Failing On Risk Row Deleted
+Risk/SCM/USM/RI Validation Error Search Forms Conv To v2.
+Set up LIVE environment and add users.
+SiP Code Generator: New TabControl TagPage Controller
+Sort out old files
+Super-User mode diary events cause error on XXXX database/latest code.
+Test e-HR Loader with Single User
+USM Treaty Tab-Treaty Balance Not Showing?Additional Cliam Details?
+USM Validation Errors (Message 281 Syndicate XXXX)
+USM Warehouse script changes
+v2.1 - XXXX Test Release With Latest Data Cut For Parallel Testing
+v2.2. - XXXX Test System Setup and Release
+V3 - Checkboxes not sizing correctly
+[ V3 SiPDocument ] Bulk Copy Stats not working 
+V3 Validation errors not appearing for some empty mandatory fields
+V3 Validation errors not appearing for some empty mandatory fields
+YYY ZZZ's Laptop Swap
+YYY ZZZ's Laptop Swap
+Work flow and document integration bugs
+Migrate CCC Into Staff Manager
+Enhance Task Daily Effort Report
+Terminate YLHR Hosted Box
+YouLink HR: Cancel Trial Period Functionality
+FLEX Board Meeting
+Investigating problems with how the SCM XXXX validation currently works. 
+SIPL - CCC HP Care Packs - Renewal Quote
+Convert Task System C# Code from .NET 1.1 to .NET 2
+Enfield prep 
+Source Safe Overview
+Source Safe Overview
+3593,"Add the ""Add New" functionality to the UWR Corrections Menu.
+Code Generator Release - 3.0.3169.23430
+YouLink HR Manager and User Manual Updates
+YouLink HR Manager and User Manual Updates
+Learning C# 
+SiP Code Generator: Store LastValidBuildAll SQL File
+SiPDocument - Security
+SiPDocument - Security
+YouLink HR: Synchronise DEV to TEST locally
+YouLink HR: Synchronise DEV to TEST locally
+Modify The Protected Business Object To Remove The Remnents Of YYY ZZZ's Diary Event Stubs
+Add code to cater for Multi user email chasing sending
+Add Description Column to RL Risk Codes
+Add GetNextSequenceNumber() helper function to Technical Core
+Adding DataLoader to Version 3 Core via External Tools Menu
+Adding DataLoader to Version 3 Core via External Tools Menu
+Adding LEVEL column to Premium Bordereaux
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Additional Time for Lunch to celebrate YYY ZZZ's Birthday
+Add New Reference Node To SiP.Comparator
+Add Script Database Structure Functionality To The Code Generator
+Add Stat Ref To Super Searches 
+Allow a grid column to be fixed when horizontally scrolling the grid
+Altering the Risk Calculations to only show Gross Amounts
+Another enhancement to MFR report
+Application Screen Size - Need to set Min Size On Application Contoller.
+ASP.NET Learning
+Assist YYY ZZZ with CCC VPN Dial-in issues
+Attempt to view Event Tab on SCM causes fatal crash
+Attending SupplyLondon Workshop - Environmental Management Systems
+Automatic Processing of Nested Forms and Associated Controls
+Automatic Processing of Nested Forms and Associated Controls
+BMS Risk Form Failing To Open
+BNI meeting 11 Jan 2012
+BNI meeting 17/11/10 and visitor hosting at BNI
+BNI meeting 18 Aug 2010
+BNI meeting 19/10/11 and emailing referrals to BNI members
+BNI meeting 20/4/11 - Visitor Host duties
+BNI meeting 21/04/10
+BNI meeting 27/04/11
+BNI meeting 27/7/11
+BNI meeting 9/06/10 and 1-2-1 with YYY ZZZ
+BNI meeting and chairing Power Team meeting at 10:30am
+BNI Meeting and preperation of 60 secs
+BNI Meeting and visitor hosting 19/01/11
+BNI meeting at new venue
+BNI Meeting on 10/11/2010
+BNI Meeting on 10th Feb 2010
+BNI meeting on 27 Oct 2010
+BNI meeting on 5/1/11 and meeting YYY ZZZ for 1-2-1 catch up
+BNI meeting, prepping referrals and attending meeting
+Bordereau entry bug, not updating wen editing Days of Grace
+Bug in Flow Layout Panel - Combo, Check and Lookup not Displaying
+Bug in USM Figure Base Warehouse calculation
+Bug with UWRef when Risks are Renewed or Copied
+Business Link Course At CCC - YYY ZZZ
+CCC - Aid User Setup Risk Super Search Query & New Fields Request To Risk Super Search
+CCC Data Conversion Meeting
+CCC Licences Update
+CCC - Meeting To Discuss Data Mart Extract Reporting & Further Requirements
+CCC Message Meeting
+CCC Message Meeting
+CCC Messages And Close Issues
+CCC - Missing Dsign messages reported
+CCC RI Development - COB Stat Codes On Contract Ref
+CCC RI Development - Risk Screen RI Tab Enable
+CCC RI Development - Risk Screen RI Tab Enable
+CCC - SCMS Claim Showing PRPTTY FAC OS Amount When OS set to 0 issue
+CCC Sun Export Requirements Meeting
+CCC Sun Export Requirements Meeting
+CCC Terminal Services Licensing Server Microsoft Hotfix kb/983385
+CCC Whitelabel
+CCC - Xchanging EDI USM messages update - test message loading for sXXXX/sXXXX
+CCC - XXXX and XXXX Close Support
+CCC - XXXX and XXXX Close Support
+CCC - XXXX Risk Super Search Taking too Long/Timing Out
+CCC - YYY ZZZ's query on SCM Super Search As At and Accounting Month Figures
+Check DVD/CD burning issues for YYY ZZZ and YYY ZZZ
+Check DVD/CD burning issues for YYY ZZZ and YYY ZZZ
+Check that line event auto zero not putting bogus figures on Euro claims
+City Interviews
+City Interviews
+Claim Movement 20012470999 Displaying Incorrect Split Totals
+Claim Movment (C30) report - only showing event coded claims
+Claim save - problem changing an event linked to SCM line
+Claim save - problem changing an event linked to SCM line
+Clarity: Effort Notes Disappearing
+Clarity: Improve Raisedby and Assigned to lookup processing
+Cleaning up Redundant tasks in system
+Client Support - YYY ZZZ's XXXX RI Feedbacks Month End Issues
+Code Check in and Test for release on 23/04/08
+Code Generator: Add Multiple Comments to the Structure Table Screen (+ a Description Field Type [Order 1])
+Comparator - On Trigger Transfers Indentations Not Copied Successfully
+Comparator should ignore IDENTITY columns when comparing REF/META data
+Comparator throwing exceptions when comparing
+Comparator - Unique keys are bunched together
+Consolidating CCC and YYY ZZZ support into spreadsheets for future support
+Contra Reconciliation Issues - Investigation and Consultation
+Conversion Ref_Event table
+Create manual USM transaction failed- Lookup not working
+Create Mobile Phone POS Tariff Business Object
+Create Mobile Phone POS Tariff Business Object
+Create report to enable XXXX to investigate RI gap
+Create Web Version of ComboBox
+Creating 2 estimates for CCC
+Creating Time Zone code if Date is entered in different Time Zone
+Dealing with general user queries
+Defining custom templates for DNN HTML Module Editor
+Demo to CCC by Tower Bridge
+Demo to CCC with YYY ZZZ
+Demo to YYY ZZZ from CCC - Potential White Label
+Demo with updates to CCC
+Deploy XXXX Test on PRD
+Diary Event Bug Reported - Recipients Disappearing On Events
+Diary Events - sender
+Diary Event System Tasks/Reports For YYY ZZZ Into v1.10
+Distribution list dialouge not working as required
+Divide Loader into projects so that it will be available as an .exe or a .dll
+Double click on Grid after new Event entered causes crash
+Effects on adding EPI to Line.
+e-HR v2 support issues
+Enhance Coverholder Searching
+Enhancement to MFR report
+EPI Calculation bug when entering via Quick Entry
+Estimate for Coverholder Data Loads
+Event Maintenance Window - Form Actions
+Event screen - change layout, load BO on double click
+Event Search/Edit Needs To Be Set To ReadOnly When User Not In RoleEventsAdmin
+Export failing on very small numbers
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Extended SiP Lunch
+Filter Bug
+Filter Bug
+Finding 20 contacts to send invites for BNI launch
+Fix IIS / ASP Issue on laptop
+Fix XXXX  USM Lines
+FLEX Board meeting 8th Arpil 2014
+FLEX brochure meeting and preparation
+Flex Mobile - Add Deposit credits on banking sheet report
+Flex Mobile -  penny difference occassionally on invoice when compared to Sale Entry prices
+Flex Mobile - Sale Search Query Update - Adding Ability To SearchOn  Mobile Number 
+Flex Mobile - Support call from EJC reporting connections issues from user machines
+FLEX website preparation and info gathering
+Get V3 objects up and running on latest code and database
+Going through TASK list to determine which tasks are released
+Grid cell colours not being set and also being unset when positioning changing
+Grid cell colours not being set and also being unset when positioning changing
+Helping YYY ZZZ set up reports on the Blade DR servers.
+Identifying Tests For v2.1+ Data Structures With Emphasis on Quarter Close Processes
+Improve behaviour of Notes Control
+Insured/Reinsured Details Populated By SCM Validation Suspect.
+Introduction meeting with YYY ZZZ and YYY ZZZ about LinkEX applications
+Intro to SiP Systems
+Intro to SiP Systems
+Investigate bogus 'Message 0 failed to load' errors
+Investigate extra large backup sizes on SIPEXC001
+Investigate Foreign Key Naming Issue in Code Gen
+Investigate Foreign Key Naming Issue in Code Gen
+Investigate Risk/RI Linking on all syndicates and produce reports
+Investigate website errors
+ISO meeting and FLEX meeting, rescheduled from 2nd Oct.
+ISO Meeting and preparation on 25/11/13
+ISO Meeting and preparation on 25/11/13
+JAM-GLOBAL demo and setting up
+Knowledge Connect Networking Event at University of Westminster from 1730 - 2100
+Laptop upgrade for Visual Studio
+Linked Risk Validation errors
+LinkEX Bug (Grouped trusts not opening form on double click)
+LinkEX Search error with conflicting temp tables.
+LinkPQN - Management Report - Update Rules for No Of Students Continuing Data
+Loader needs update to handle single-syndicate advices
+Loader putting 'Added on x(date)' in ref data when it only updated a row
+Load in new Bordereaux Spreadsheet
+Load in new Bordereaux Spreadsheet
+Lookups from Business Objects not working in ComboBox columns on grid
+Low memory warning
+Management Meeting
+Marketing: Hobsons reseach, what are their products
+Marketing Meeting - discussing Brochures
+Marketing Meeting - discussing Brochures
+Match RI Data
+Meeting To Discuss SiP Statistical Methods
+Meeting To Discuss SiP Statistical Methods
+Meeting To Discuss SiP Statistical Methods
+Meeting To Discuss SiP Statistical Methods
+Meeting with BNI YYY ZZZ
+Meeting with CCC and preparing demo
+Meeting with CCC and setting up demo
+Meeting with CCC in Warrington
+Meeting with New CCC University concerning LinkEX
+Meeting with YYY ZZZ about Pre Registration Nursing
+Meeting with YYY ZZZ for requirements/understanding business
+Meeting with YYY ZZZ Regarding SiP LDEX Loader
+Meeting with YYY ZZZ Syndicate XXXX
+Meeting with YYY ZZZ to identify cause of some Eurobase RISK Lines not matching USM/SCM's
+Meeting XXXX - YYY ZZZ system Demo and Discussion
+Meeting YYY ZZZ
+Meeting YYY ZZZ and getting Demo to show CCC
+Merge mine and YYY ZZZ's code and databases
+Merge YYY ZZZ's and YYY ZZZ's grid work
+Migrate SCM Search to .NET 2 Version
+Move triangulation stats control code from Technical Core to SCMS (if feasible -- investigate first)
+Office tasks / HR Management meetings and office discussions
+On Closing USM Form. Dispose Causing Error On Show Policy Button
+On the table summary in the comparator need a drop table statement
+Order Pct Calculation Bug
+Order Pct Calculation Bug
+Outwards Claim Ref Needs To Be Shown On USM Grid 
+Period Close fails on SCM - XXXX
+Period Close Last Message Recieved Bug
+Prepare systems for absence
+Preparing demo for CCC
+Preparing ISO Activity Report
+Problem with Cancelling Actions in New DataLayer 
+Problem with Cancelling Actions in New DataLayer 
+Progress meeting with CCC
+Push new CCC Website live.
+Question: auto generated risk refs - will sys generate duplicate refs once RiskID has exceeded 99999 ?
+Reinstall YYY ZZZ's Laptop for Developer Use
+Release CCC System <2.2.3175.22130> - UAT Related Bug Fix Testing
+Release of v2 SCMS Test Systems On Lead Syndicate User Machines
+Release SCMS Warehouse To Live -- XXXX Synd
+Release Technical Core 1.6.2103.23215
+Release Technical Core v 2.0.2301.28850
+Report
+Requirements gathering for LDEX replacement - Emma Penfold [YYY.ZZZ@CCC.com]
+Requirements Management for Ledger/Accounting
+Requirements Management for Ledger/Accounting
+Research Freeware Dash Board SiP checks
+Resolve Sun Extract Issues With Cash Premium Accumulated Column
+Restrict Grid Export Types
+Review of CCC Proposals and Documentation of Thoughts
+RI Calculation getting sums wrong when several open movements
+RI Calculation getting sums wrong when several open movements
+Risk History - View USM / SCM not working
+Risk search new ROE column in SCM tab
+Risk Section Fields Area and Basis/Loss Basis need sorting out on XXXX
+Risk Triangles to include RI
+RITC Data Mart-  Created New Batch Of Weekly Reports For RITC To Use In Reconciliations
+Role Segregation Document For CCC Compliance Team
+SCM Claim, Update movement of Lines with other tab pages
+SCM Entry Screen: Saving Linked Policies Stop Forced Saves
+SCM Event Taking Into Account Reseve Fix Causing Error On TTY Figures
+SCM Event Taking Into Account Reseve Fix Causing Error On TTY Figures
+SCM Event Taking Into Account Reseve Fix Causing Error On TTY Figures
+SCM Line Eventing
+SCM Manual Movement On Manual Claim (bur 'U') Should Allow Lloyds Figure Entry
+SCM Manual Movement On Manual Claim (bur 'U') Should Allow Lloyds Figure Entry
+SCM Message Detail - Search On Message For SCM Transaction Returns No Results
+SCM Not Filtering RI Policies Attached Properly
+SCM Review Tab Notes In The Past Should Be Editable
+SCM Review Tab Notes In The Past Should Be Editable
+SCM RI Calculations - Allow User To Specify If Run On Save
+SCM Save sometimes failing after new event added
+SCM Save sometimes not working properly for paid figures
+SCM saving doesnt work
+SCM Search - HasReserveAdjustments Search Fails
+SCMS Support - Available On Call
+SCMS Support Cover at CCC
+SCMS Support: XXXX 'Line Sequence Suspect Errors - Talk To IT' Need Resolving
+SCMS Testing of USM Screen - Eventing system
+SCMS User training YYY ZZZ CCCs
+SCMS v2 Diary Event Demo For Claims Dept. And Synd Lead Users Demo Setup
+SCMS XXXX Support
+SCMS XXXX Test v2 Issues Raised By Test User
+SCM Update And Save Works Once. But Another Update And Save Fails.
+SCM\USM\RISK SuperSearch crashes with XXXX Test
+SCM/USM SuperSearch Fails On XXXX Synd As Stats Different To That Of Synd XXXX
+SCM Validation Rule: 'To Be Evented'
+Search Control: Bugs when using append mode with LIKE operator
+Server Timings
+Setting Up v3 Working Version And Familiarising On How It Works
+SiP Admin Tasks
+SiP Board Meeting
+SiP Board Meeting
+SiP Document Enhancement - Default File type and adding ZIP type
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Management Meeting
+SiP Meeting with CCC (and Preparation)
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SiP - Progress Meeting
+SIP - Setting Up Server Licencing - Issues
+SiP Time Tracker
+Some columns sometimes missing in Porportional Export
+Splitter panels not sizing correctly upon minimize / maximize
+SP_REF_PERIOD_CLOSE_RI_QUOTASHARE_CALC needs a little work
+SQL 8000 character bug
+SQL 8000 character bug
+SQL 8000 character bug
+SQL Reporting services, getting report to repeat column headers after each new page
+SQL Server Back End Access Monitoring
+Sun Account Import/Export: revisit treaty figures
+Super Search filter fields not filtering correctly
+Supersearch should to group CA Categories (LPSO CAT on USM SuperSearch)
+Syndicate XXXX RITC
+Syndicate XXXX Support Claim Summary OS Reserve Discrepencies
+Synd XXXX has incorrect event split validatioin error
+Take off-site copy of server backups.
+Task System Reports Need Rolling Out
+Task System Reports Need Rolling Out
+Team Meeting
+Team Meeting
+Team Meeting
+Team Meeting
+Team Meeting
+Testing and preparing demo for youlinkHR to TSM
+Testing Latest v2 Developments/Bug Fixes Completed.
+Test XXXX conversion on live data/latest XXXX schema and update as needed
+Tiptree Office - Source Network/Printer/Scanner Furniture 
+Total Line Percentage not updated when changing line percentages on SCM
+Total Line Percentage not updated when changing line percentages on SCM
+Trace corruption of XXXX Live and plan fix
+Training course with CCC at Romford
+Troubleshooting Live Server Machine
+Troubleshooting Live Server Machine
+Trustfund not populating drop down
+Update Asset Register
+Update filter search fields SP to bring back mixed statistical codes for USM searches
+Update Release Procedures Document To Cater For New SiP Comparator Software
+Update UWRef corrections on XXXX Live
+Update XLsior Proportional Export for v.1.10
+Upgrade network hardware at CCC
+Upgrade PDM on PIX firewall
+Upgrading Microsoft Office to version 2013
+User actions not working with inner hybrid forms
+User manual
+User manual
+User Support: Enter XXXX Remaining Un-Calculated RI On SCMs Flagged
+User Support -- XXXX SCM RI Update -- YYY ZZZ Message Box Query
+User Support -- XXXX SCM RI Update -- YYY ZZZ Message Box Query
+User Testing v1.10 - Investigate And Resolve Queries - See Plan
+Using reflection to bind control Properties
+USM Form Load Too Slow . Investigate And SpeedUp
+USM Manual Entry failing to save
+USM_MESSAGE_DETAIL ON SYND XXXX CONVERSION
+USM No Longer Shows Linked Risk
+USM/RI Search On Stat Codes Fails
+USM/SCM Message Transaction Search
+USM Search - stats don't work fully either as parameters or returns
+USM Splits calculation not refreshing after reload, to totals same as Remaining
+USM Validation Error Bug.
+UWR Corrections - Reference Table --> XXXX Testing
+v2 Test XXXX/XXXX Risk Validation Job Failing
+v2 Warhouse Build
+V3 filtering can reverse checkbox changes in grid
+V3 filtering can reverse checkbox changes in grid
+V3 - Grids Scrolling Around When Shouldn't Be
+V3 LINK_Link Business Object Linking Stored Procedure Changes
+V3 LINK_Link Business Object Linking Stored Procedure Changes
+V3 Risk Port - Fixing problems with Information Rows
+Validation to roll forward line evented amounts and check for validity
+Version 2 SCMS not opening Claim Cards on some machines XXXX bug
+Version 2 SCMS not opening Claim Cards on some machines XXXX bug
+Visited BNI Putney to see what's it like
+VOIP Testing & Setup
+When auto refresh search is enabled the search parameters changed message box appears when the search tab has been selected
+When auto refresh search is enabled the search parameters changed message box appears when the search tab has been selected
+When entering a new USM, make Treaty Tab visible for LPSO Cat 0
+Windows Service to manage communications between SCMS and LDEX
+WSETTs Not Getting Translated And Associated Issues
+WSETTs Not Getting Translated And Associated Issues
+XLsior Proportional Download should take account of broker orders
+XXXX CCC XXXX - Missing SCM Message 42 - Requiring manual attention
+XXXX CCC XXXX - Missing SCM Message 42 - Requiring manual attention
+XXXX Claim not opening ClaimRef N40025500200 
+XXXX Live - Mark Fac Indicator True For SCM Linked To Fac RI
+XXXX Message/Movements With Incorrect Month End Dates Updated
+XXXX Period close reports Quota Share errors
+XXXX Period close reports Quota Share errors
+XXXX SCM Validation Errors
+XXXX Triangle figures wrong
+XXXX USM Message For 14/12/06 Failed To Load.
+XXXX USM Validation Failure
+XXXX v2 Test Release SCM Validation Issues
+YouLink HR Customer satisfaction survey, preparation for Monday afternoon send out
+YouLink HR demo to CCC
+YYY ZZZ 'Going On Holiday' Drinks
+YYY ZZZ 'Going On Holiday' Drinks
+YYY ZZZ 'Going On Holiday' Drinks
+YYY ZZZ 'Going On Holiday' Drinks
+YYY ZZZ LinkEX Meeting to gather requirements and submit quote for upgrades
+YYY ZZZ - Message Load/Month-End Support
+YouLink HR: Check TimeStamp Functionality On CORE Tables
+YouLink HR: Annual Salary Report
+YouLink HR: CCC Changes Analysis
+Automate Diary Regression Tests
+CCC Demo Including Travel Time
+CCC Demo Including Travel Time
+CCNA 2013 - Preparation and Planning for New Examination
+[ V3 Document]  Ehance document to cater for missing revisions
+YouLink HR Database Design for Financial Package Functionality
+YouLink HR: Release DEV to TEST
+ISO 9001 Review Preparation
+Reviewing SIPSQL002 Licencing With A View To Keeping On Version 2008 R2
+Staff Manager: Holiday Booking Enhancements
+Ability to enter Percentage or Amount Line.
+Add Spliters To RI/SCM/USM Search Screens - Tidy Code And Check-In
+Backup/Test XXXX Live For Demo
+CCC - Marketing Letter
+CCC Meeting and Preparation
+CCC - Month-End Close Support
+CCC SCMS Support - XXXX RI Super Search Issue
+CCC SCMS Support - XXXX RI Super Search Issue
+Change IsAutoGrid property to a ContainerControl enumeration
+Clear out XXXX data
+Data Recovery from faulty hard drive
+Debugging YYY ZZZ network issues
+Fault in email distribution system - Investigate and Fix.
+Getting VSS up to date with the released version of BMS ready for future work
+Get VSS versions of Core and SCMS up to date and compliable
+Investigate Recent Website Issues
+Investigate SQL Server Performance when Virtualised.
+LinkPQN - CPM Report to extract Stepped-Off & Withdrawal reasons from newly added fields
+LTD-HQ2 Server Message copy Jobs Failed
+LTD-HQ2 Server Message copy Jobs Failed
+Meeting with CCC
+Meeting With YYY ZZZ
+Meeting With YYY ZZZ
+Meeting With YYY ZZZ
+Meeting With YYY ZZZ
+Meeting With YYY ZZZ
+Meeting with YYY ZZZ concerning CCC changes
+Meeting with YYY ZZZ concerning CCC changes
+Meeting with YYY ZZZ to Discuss SCM Eventing at 1630
+Meeting with YYY ZZZ to Discuss SCM Eventing at 1630
+Meeting with YYY ZZZ to Discuss SCM Eventing at 1630
+Partner Marketing Documentation
+Permission of Tables and Sp's and User Accounts
+Refactor SiPFrameworkControls
+Replace laptop hard drive and organise repair of old one.
+Report Form Clears Search Parameters When You Tab Off Them
+SCM Line Eventing
+SCM Line Eventing
+SCMS Support - Doc Search Query
+Set up Digital Sender in Regus office
+Set up new machine for releasing BMS, install SQL and BMS
+SiP / CCC Working Practices Document
+SIP Servers - Power Failure
+Stats Menu -- XLsior Export LORS/Proportional --SP Column Names
+TableLayoutPanel not sizing properly
+Two preview tabs appearing in nested documents in version 2
+USM Validation Errors Grid Not Exporting to CSV
+USM Validation Errors Grid Not Exporting to CSV
+V3 - Issues with entering data directly in lookup cells in grid as opposed to running search
+ISO 9001 Aug Review Report
+Staff Manager: Allow People To Cancel Agreed Holiday
+YYY ZZZ AD/AD Groups SCMS Login Setup & Deployment Training [Client Ref: 72995]
+YYY ZZZ AD/AD Groups SCMS Login Setup & Deployment Training [Client Ref: 72995]
+Operational Work May 2013
+10 Minute Stand Ups - July 2006
+10 Minute Stand Ups - July 2006
+Confirm CCC Data on LIVE is a YYY ZZZ Expects
+E-HR V2 Client - CCC 2012
+Framework Quick Sheet
+DEC's do not have a Breach Percentage.
+FLEX Data Server Running On YYY ZZZ's Machine
+FLEX Data Server Running On YYY ZZZ's Machine
+Risk Validation: To find unvalidated Risk's entered via Loader
+YYY ZZZ Tutor Visit
+YYY ZZZ Tutor Visit
+Add Delete Trial Data System Action for Office Managers
+Add Delete Trial Data System Action for Office Managers
+5500 Conversion - Meeting At YYY ZZZ To Discuss Conversion Updates/Tasks
+5500 Conversion - Meeting At YYY ZZZ To Discuss Conversion Updates/Tasks
+5500 Conversion - Meeting On Conversion Issues and Tasks/Schedules
+5500 Conversion - Meeting On Conversion Issues and Tasks/Schedules
+Add auditing into new Diary Event database
+Adding SectionPremium data from RAW CCCs XXXX conv
+Adding YYY ZZZ to FLEX website and Silverlight Component
+Add new statistic type to XXXX triangles/ warehouse
+Add proper permissions to BMS tables and SP's
+Allow auto-update of some reference tables (esp. REF_Broker)
+Allow List Box to be Data Bound
+Allow List Box to be Data Bound
+All SIP Servers -  Disk Space Checks & Maintenance (Free Up Space Housekeeping)
+Altering demo database for Sales pitch to CCC and updating slides
+Analysing options for the pricing structure
+Attending with CCC to client demo near Heathrow, CCC
+BMS Enhancements Discussion
+BMS Enhancements Discussion
+BNI meeting 18th May 2011 - and BNI tasks for Power Team
+BNI meeting 31/08/11 and brief chat with YYY ZZZ from CCC
+BNI meeting 8/12/10 and 1-2-1 with YYY ZZZ
+BNI meeting 9/3/11
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and 1 to 1 meeting with YYY ZZZ
+BNI meeting and one 2 one meeting with YYY ZZZ
+BNI  meeting and setting up for Visitor's day
+BNI meeting on 13/07/11 including talking to YYY ZZZ about payroll friend
+Board Meeting
+Break in Recovery
+Carbon foot print
+CCC Administration Section Menu and Navigation
+CCC BMS Meeting
+CCC BMS Meeting
+CCC BMS Meeting
+CCC Data Conversion Meeting
+CCC Demo
+CCC demo preparation and demo
+CCC - Deploying loader, jobs, reports schedules, user saved query updates on site.
+CCC e-HR V2 Meeting
+CCC e-HR V2 Meeting
+CCC -  Movt Extract - Remove Deletion Of Unallocated Event Code
+CCC networking event about Workplace Equality
+CCC RI Development Release
+CCC Server Hardware Error Resolution
+CCC Support - Aiding user setup specific SCM super search/exporting results
+CCC Support - Month End Close Support
+CCC Support - TS Licence Error Message
+CCC Support - TS Licence Error Message
+CCC System Access Issue - User Created DB Lock - Investigate Cause
+CCC - XXXX Message Load Failure
+Checkbox with label alignment
+Checking In Code / Merging Databases - YYY ZZZ (June)
+Check in Latest Code - January 2009
+Check In Technical Core / SCMS v3
+Check YYY ZZZ's laptop and investigate odd e-mails issue.
+Claim Audit Notes and Narrative issues
+Claims with suspense Movts taking average 1 minute 40 Seconds to load(Large Syndicate XXXX Size over 4GIG DB)
+Clarify CoverHolderPolicyID (for decs)
+Clarity fact sheet in PDF (upload to web site)
+Code Generator: Categorise Column Notes (With Templates)
+Code Generator - Remove Front End Code That Can Be Built Automatically
+Code Generator - Remove Front End Code That Can Be Built Automatically
+Code SP to bypass SQL 2000 temp table glitch.
+Complete SCM and RI Table Conversion
+Conversion Scripts: General Preliminary Work
+Coverholder/Audit Progress meeting with Vincent
+Create A Utilty To Check External Code Against SourceSafe For Changes.
+Create A Utilty To Check External Code Against SourceSafe For Changes.
+Create Mobile Phone POS Additionals Object
+Create Mobile Phone POS Additionals Object
+Create SiPFrameworkRichTextBoxWithLabel control and hook into Code Gen
+Creating LinkEX Portal Overview document for meeting with YYY ZZZ from CCC
+Cross Market Messaging Group (CMMG)  Meetings 2009
+Daily Movement Report - Add Message Ref To Header To  Display On Every Page
+Daily Movement Report - Add Message Ref To Header To  Display On Every Page
+Debug all XXXX format triangles
+Deleting Children - Table losing RowFilter
+Deleting Children - Table losing RowFilter
+Demoing to CCC at Stevenage
+Demo/Meeting With YYY ZZZ
+Demo/Meeting With YYY ZZZ
+Demo set up and demo to CCC
+Detailed Monthly report bug when using 'Union' in select statement with same data in rows
+Diary Event Business Object updates with latest CodeGen changes
+DiaryEvent Code review
+Diary Event Issues/New requirements From Claims Team Meeting
+Discussion on YouLink HR Pricing and other marketing tasks
+Discussion with YYY ZZZ regarding Online contract Monitoring using LinkEX
+Documentation for XXX for CCC Binder Management Proposal
+Document Functionaliy of Clarity and Staff System
+Double check usage and display of new money fields
+Edit SuperUser to allow edit of more fields
+e-HR v2 Training for CCC
+Entity Framework 4 DbContext
+Entry type - both 2 and 3 character versions needed on Payment Expected
+Entry type - both 2 and 3 character versions needed on Payment Expected
+Event Code Entry Needs To Refresh Cache
+Extended Lunch
+Extended Lunch
+Extended Lunch
+Extended Lunch
+Extended lunch hour to discuss FLEX plans
+Extended lunch hour to discuss FLEX plans
+Extended lunch hour to discuss FLEX plans
+Extended lunch hour to discuss FLEX plans
+Extended Team Lunch With YYY ZZZ
+Extended Team Lunch With YYY ZZZ
+Extended Team Lunch With YYY ZZZ
+Extended Team Lunch With YYY ZZZ
+Extending the Bordereaux Back Loader to Sum all Bordereaux and Summate to Master Risk
+Extend Tag Wizard To Show Business Object owned Reference Tables in Lookups
+Figures in the Event Search window are wrong
+fixing network issues April
+Flex Mobile - Sale - Insurance policy reference number next to sold insurance policy
+Following up the indications from the LC  Keep meeting
+Followup Facility on Audit Business Object
+General testing of SCM UI behaviour
+Getting and restoring XXXX databases.
+Getting Coverholder and Audit business objects working again on latest code and database
+Getting TEST version ready for CCC demo
+Grid Sorting/Sizing Issues in Version 2
+Import Shared Base Tables Into Loader-ready Database
+Initial discussion with CCC about Student's Placement system
+Insert missing movement details (bad raw data in Eurobase) XXXX Test XXXX Claim N40011531294
+Insert New Meta and Risk Ref Tables With Comparator Columns, Triggers
+Installing and migrating to Visual Studio 2010 and using Windows Phone 7
+Installing Licence and Data Servers In Office
+Installing Licence and Data Servers In Office
+Installing Windows and software for Old Laptop for Home use
+Install Kiwi Free CatTools 3.40 For Router Configuration Monitoring
+Install laptop for YYY ZZZ
+Install Win2k3 SP1 on both live servers
+Introduction to Code Generator
+Introduction to Code Generator
+Investigate Hanmail.net Spam flood.
+Investigate large number of fake NDR messages
+Investigate / Resolve Architecture Issues in Code Gen
+Investigate SQL Login / User Renaming
+Investigate SQL Login / User Renaming
+ISO management meeting April 2013
+ISO management meeting April 2013
+ISO Management review meeting
+ISO Management review meeting
+Issue with SCM Batch Job Message
+IT club
+Latest Version 2 SCMS  Fails to run on machines not having Windows Service Pack 2 installed
+Latest Version 2 SCMS  Fails to run on machines not having Windows Service Pack 2 installed
+LC Keep project meeting in Colchester
+Learning c#
+Line Event RI figures not being found on XXXX
+Line events could be removable
+LinkEX Bug: Download not adding in course correctly due to Academic Year bug
+LinkEX City University demo, including travelling time
+Link PQN Finalising reports and adding suitable search fields
+Lloyd's Exchange: IT Service Providers Trade Fair
+LLOYDS Exchange IT Suppliers Questionaire Complete and Send
+Lookup Up Buttons On Grid Can Be Selected/Data Changed In ReadOnly Mode
+Lookup Up Buttons On Grid Can Be Selected/Data Changed In ReadOnly Mode
+Management Meeting
+Management Meeting
+Management Meeting
+Management Meeting
+Management Meeting
+Management Meeting
+Management Meeting
+Management Meeting
+Manual SCM - Add New Movement Save Fails
+Marketing: Going through CIM website for Marketing ideas
+Marketing Meeting
+Marketing meeting - brochures
+Marketing meeting - brochures
+Marketing Pricing Strategy meeting at Old street
+Marketing Pricing Strategy meeting at Old street
+Marketing Visit To Vinyard!
+Meeting CCC and demoing system to him
+Meeting CCC Colchester
+Meeting to discuss current tasks for BMS
+Meeting to discuss current tasks for BMS
+Meeting with CCC and CCC
+Meeting with CCC and preparing demo
+Meeting with CCC followed by YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting YYY ZZZ from CCC and performing demo to CCC
+Meeting YYY ZZZ regarding Knowledge Connect Project at Erlang House
+Memory Leak Found In New Version Of Technical Core v3
+Merge YYY ZZZ and YYY ZZZ's Databases for V3
+Message Failed to Load all SCMS syndicates
+Move Bordereau Audit get to when needed
+Multiple Address Functionality for Coverholders
+Newly linked QS figures look wrong on the SCM (XXXX)
+New SCMS/BMS  CCC Application Icon Setup And Deploy
+New SCMS/BMS  CCC Application Icon Setup And Deploy
+Office 2007 Roll-out
+Office management after New Carpet
+Office management after New Carpet
+Office management after New Carpet
+Oracle client tools installation and setup on CCC Live machine (YYY ZZZ)
+Organise Latest Windows Updates - July 2009
+Overhall the DataChanging Mechanisms for V3 to Manage DataState and DataRowState More Effectively
+Period Close BindData method is called twice
+Period Close Demo Meeting/Process Setup On CCC Live And Documentation
+Populate SCM_Original_Currency
+Positioning of labelled controls on flow layout panel
+Potential Business Risk research
+Preparing demo and meeting YYY ZZZ from CCC
+Problems with Grid Cells Not Losing Focus
+Procedure to check for validity and completeness of comparator data
+Proposal for restricted access to certain claims
+Proposal for restricted access to certain claims
+QuickButtons not working with standard forms
+RAG report bug - Calculation for Split and Part funded students returning wrong academic year data
+Reinstall CCC's Laptop for Developer Use
+Reinstall YYY ZZZ laptop with WinXP
+Reinstall YYY ZZZ's laptop for YYY ZZZ
+Release CCC System <2.2.3177.24612> - UAT Related Bug Fix Testing
+Release Current TEST System onto LIVE on CMSHQ1
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Application To Live -- XXXXSynd
+Release SCMS Warehouse To Live -- XXXX Synd
+Release SCMS Warehouse To Live --XXXX Synd
+Release Technical Core 1.6.2124.17925
+Release Technical Core 1.6.2124.17925
+Remove ContentType Property From Text Boxes
+Re-organisation of observe events
+Re-organisation of observe events
+Reporting Services - Training on Deploying and Setting up
+Reports Not Working -- See Plan
+ Research Examples BSC
+Restore integrity checking as post-processing SQL
+Retesting checked in code
+Review Reports - make sure they still work as expected
+RI failing to calculate (both live and test)
+RI Requirements for XXXX
+RI Requirements for XXXX
+Risk Borderaux Automated Pivot Schedules
+RISK Section not deleting
+Risk View - Related Claims
+SCM Form Switches To Next Node in Navigation Tree When Saving (core issue)
+SCM Form Switches To Next Node in Navigation Tree When Saving (core issue)
+SCM Header Text not showing when claim is split (also reports)
+SCM Header Text not showing when claim is split (also reports)
+SCM Movt Date/Ac Mth not validating on form when movt not newly added
+SCM Search Bug: Clicking 's' on search parameter listbox errors when list reaches bottom
+SCMS Support: New Message Arrival Structure Testing
+SCMS v2 Meeting
+SCMS v2 Meeting
+SCMS v2 Meeting
+SCMS version 2 - System Testing Functionality
+Script to build datatables.txt file
+SearchControl code being added by designer causing problems
+Security Extension blocks all subscriptions
+Security Required For Movement of Nodes
+Seperate the Schedule tables out in BMS depending on class of business
+Set appropriate limits on GroupBy for various fields.
+Setting up demo and doing demo of youLink HR to CCC
+Setting up LinkEX and Portal for meeting with YYY ZZZ (YYY ZZZ)
+Setting up VM for testing website
+SiP Board Meeting August 2006
+SiPCodeGenerator: AutoGeneration of Reference Data Filters
+SiPCodeGenerator: AutoGeneration of Reference Data Filters
+SiP Comparator Update - Add New Ref/Meta Tables To Comparator
+SIPEXC001 - VSS_BackUp Failure Investigation
+SiP Extended Lunch [Because SCMS Now Runs Properly At CCC]
+SiP Extended Lunch [Because SCMS Now Runs Properly At CCC]
+SiP Extended Lunch [Because SCMS Now Runs Properly At CCC]
+SiP Extended Lunch [Because SCMS Now Runs Properly At CCC]
+SIPL Company drinks and updating passes
+SIPL Company drinks and updating passes
+SIPL Company drinks and updating passes
+SIPL Company drinks and updating passes
+SIPL - Marketing Material Update
+SIPL - Marketing Material Update
+SiP Management Meeting
+SiP Management Meeting May 2011
+SQL Server 2000 SP3 user chaining problem with XXXX database
+Statistics - Figures Book search not working
+SuperSearch - Bug on able to SUM non numeric columns - See Plan
+Sync All Live SCMS DBs -  Dev DB To Latest XXXX v1.10a DB With Split Loader
+Sync up SCMS on Sourcesafe with current 1.10 database
+Sync up SCMS on Sourcesafe with current 1.10 database
+Synd XXXX: Remove RI FAC and XL Stubs Where No Physical Recovery Exists?
+Task Management
+Task reports timing out with an exception
+Technical Meeting - Discussing CCC 
+Technical Meeting - Discussing CCC 
+Testing and creating custom demo for CCC for 17 Oct 2014
+Testing - Checking Get/Save Procedures Holding Up On Risk/RI/SCM/USM
+Testing demo and meeting with Evolution HR
+testing new functionality on SCM event splits system area
+testing new functionality on SCM event splits system area
+Timestamp problem with Link Manager
+Timestamp problem with Link Manager
+Triangles Drill Down At Total Figures Causes Error 'Incorrect Stntax Near AS'
+Try and Recover Data from YYY ZZZ's Maxtor
+Understanding the SQL Data Conversion Application
+Understanding the SQL Data Conversion Application
+Updated YYY ZZZ - LinkEX Case Study to include customer satisfaction results
+Update licences on HQ1 and HQ2
+Update licences on HQ1 and HQ2
+Updating SCMS with new features from BMS
+User Group SCMS Version 2 Demo Preparation
+User Group SCMS Version 2 Demo Preparation
+USM Diary Event Save - Causing Exception Errors
+USM Quick Entry Search - Entry Fields Alignment/Width Display Settings Bug
+USM Quick Entry Search - Entry Fields Alignment/Width Display Settings Bug
+USM Validation to check Splits for validity
+V3 and V2 - Grid throws error when combo value set to  on int id columns
+V3 Checkbox sizing/docking issues
+[ v3 SiPDocument ] Category selector loses values on the fourth and filth combo box for selector 3
+[ V3 SiPOffice Plugin ]  SiPEvents not disposing
+V3 Task System: Drive Users From Staff and Affiliate Tables
+Warehouse build sometimes swaps stats columns
+Warehouse build sometimes swaps stats columns
+Website / Letterhead Meeting
+Weekly Developer Meeting 16th April 2008 - CCC Development Review
+Weekly Developer Meeting 16th April 2008 - CCC Development Review
+Weekly Developer Meeting 16th April 2008 - CCC Development Review
+Weekly Developer Meeting 16th April 2008 - CCC Development Review
+Weekly Developer Meeting Jan 2008 - Document Filing
+Weekly Developer Meeting Jan 2008 - Document Filing
+Weekly Developer Meeting Jan 2008 - Document Filing
+Weekly Developer Meeting Jan 2008 - Document Filing
+When You Select Add New Event But Close Without Changing - Errors Remain
+Working on upgrading code gen and reports to work with VS2013
+Write a Holiday Card Report and Integrate into Front End Meta Data
+XDH message has a different format for the name
+XXXX CCC XXXX UCM discrepencies with USM data
+XXXX CCC XXXX UCM discrepencies with USM data
+XXXX Close Support
+XXXX Demo System 
+XXXX Enterprise Extracts - Conv to v2 And Run. Send Output To YYY ZZZ
+XXXX Message which was not loaded needs to be loaded
+XXXX Raw data capture from reflection
+XXXX SCM Lines wrongly attached to decs
+XXXX SCM_Validation bug
+XXXX Test Release
+XXXX triangles have figures with no II Groups
+XXXX triangles have figures with no II Groups
+XXXX v2.1 Test System Setup. 
+XXXX v2 Test Release Issues: Claims Not Loading When User Not dbo.
+YouLink HR Demo to YYY ZZZ, meeting YYY ZZZ for catch and Board meeting with Directors
+YYY ZZZ leaving drinks at 1630
+YYY ZZZ leaving drinks at 1630
+YYY ZZZ leaving drinks at 1630
+YYY ZZZ leaving drinks at 1630
+YYY ZZZ leaving drinks at 1630
+YYY ZZZ - Meeting to discuss XXXX conversion - 23/08/2011
+YYY ZZZ - Meeting to discuss XXXX conversion - 23/08/2011
+YYY ZZZ - Month-End Support
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS Update Meeting
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS Update Meeting
+YYY ZZZ Synd XXXX Conversion - Progress Meeting With YYY ZZZ
+YYY ZZZ Synd XXXX Conversion - Progress Meeting With YYY ZZZ
+YYY ZZZ - XXXX Audit Meeting (System and Data Explanations)
+Add Business Object Record Into Code Generator For Documentation Purposes
+CCC Previewing DataMart Documentation
+CCC Previewing DataMart Documentation
+Modify SiPComparator To Work With Databases With Non-DBO Schemas (e.g. StaffManager)
+YouiLink HRL New Demo Company For YYY ZZZ
+Holiday Request E-Mails - Duration Set To 0.0
+Editing the Task Validation Object
+Editing the Task Validation Object
+Ensure RTFShadow Copy Is Formatted Correctly for Reporting Services
+YYY ZZZ's OU questionaire about Self Selection
+YYY ZZZ's OU questionaire about Self Selection
+YYY ZZZ's OU questionaire about Self Selection
+YYY ZZZ's OU questionaire about Self Selection
+New Laptop Local Server Licence Not Working
+Pair Programming - Code Generator Generic Fixes
+CCC UAT Test Result - Review and fix bugs identified
+E-HR v2 Client: CCCs 2013
+E-HR v2 Client: CCCs 2013
+YouLink HR: Find Easy Way To Sort Grid Column On Load Without Changing Underlying Container
+Adding and deleteing events on SCM causes system crash.
+Add user friendly messages when Validation is running or failed on last attempt
+Applying Wilcard Cert
+Applying Wilcard Cert
+Diary Event System - See Notes Attached
+Field Access on USMLine incorrect when adding a manual entry
+Need To Take Into Account AsAt Date On Ref Event Get Linked SCM
+Need To Take Into Account AsAt Date On Ref Event Get Linked SCM
+Various Marketing Tasks
+e-HR v2 Client: CCC
+e-HR v2 Client: CCC
+Messaging Validation Enhancements and Bug Fixes
+5500 Conversion - Restoring and Analysing Data Provided
+Access To CCC XXXX System/Setup Testing - Speed Improvement Testing
+Allow ListBoxWithImages control to show only images and use a tooltip
+Allow validation of duplicate events when they are typed in
+BMS RISK Version migrating to CCC databases
+CCC - Aiding 111 audit for CCC (SCMS)
+CCC - Close Support
+CCC Management Meeting
+CCC/SCMS Decomission Release File - Investigation and Setup
+CCC System Archive
+CCC Technical Project Management - July 2008
+Combo boxes on grid not getting bound upon second grid bind
+Combo boxes on grid not getting bound upon second grid bind
+Compiling BMS for updating to v3
+Create Mobile Phone POS Supplier Business Object
+Daily Management Tasks July 2007
+Diary Event Not Getting Assigned Owner Correcly when Created
+Diary Event - Request To Remove Old Owner As Recipient When Ownership Transfered to New User
+E-HR Reports_To Role Not Allowing Holiday Authorisation
+Filtering of Business Link roles based on Linked Business Object
+Flex Mobile - Part Fund Amounts To Be Reported On Sale Search
+Get latest Ref data from Lloyds, RiskCode and BrokerCode
+MI Meeting With CCC - 17/03/08
+MI Meeting With CCC - 17/03/08
+Naming convention on OS fields is ambiguous needs correction (Claims department driven) 
+Naming convention on OS fields is ambiguous needs correction (Claims department driven) 
+Naming convention on OS fields is ambiguous needs correction (Claims department driven) 
+Organise Microsoft Partner Program 2009
+Provide Multiple Risk Status Paths
+Re-analyse tasks to see what is needed for v2.1
+Re-analyse tasks to see what is needed for v2.1
+Re-analyse tasks to see what is needed for v2.1
+Release SCMS Application To Live -- XXXX Synd
+Risk Reporting Base View
+SCM Menu History Bug - User Reported Items Not Being Added 
+SCM Menu History Bug - User Reported Items Not Being Added 
+SCM/USM Validation Process Messagebox Bug
+SQL 2008 R2 Report Server Setup 
+SQL Database maintainance for BMS
+v2 Test System: SCM Validation Updates - Test And Release
+XXXX Claim Summary Gross/Net Report Showing Treaty Figures In XL column
+Reloading USM after entering SuperUser brings up exception, also deleting DairyEvent
+SCMS Message loads and validation runs
+SCMS Message loads and validation runs
+Releasing current changes to CMSHQ1 for Tuesday's Demo
+Growth Monitor
+Bug - WebSiteBuilder Live Failing On Captcha Verification
+Bug - WebSiteBuilder Live Failing On Captcha Verification
+Re-populate USM_Line
+YouLink HR: Extend Auditing Template To Show Record Key Being Audited
+Checkin code / merge databases - YYY ZZZ (June)
+Checkin code / merge databases - YYY ZZZ (June)
+Checkin code / merge databases - YYY ZZZ (June)
+Daily Management Tasks September 2007
+Investigate Third Party EMail Providers
+Data Server Required Multi Database Capability
+YouLink HR: AutoCombo Control Security Extension
+Get YLHR Web Site Running On My Machine
+Migrate YouLink HR SourceSafe To TFS
+CCC New System Meeting
+YouLink HR: CCC - Exit Report
+Reviewing The Link EduSoft Marketing Plan
+Add Block Search
+Adding multiple email addresses for (CC,BCC and To) to Email system
+Allow different link roles based on link direction and show correct display name
+Assist with testing RIS Imaging for CCC network
+BMS Bug, Additional tab in Declaration fields not showing
+BNI meeting 26/05/2010 and meeting with YYY ZZZ from CCC
+BNI meeting 28/04/2010 and meeting with BNI members
+BNI meeting 31/03/10 and 1 to 1 meeting with YYY ZZZ
+BNI meeting and 1-2-1 meeting with YYY ZZZ from CCC
+BNI meeting and 1-2-1 with YYY ZZZ
+BNI meeting and chairing PowerTeam
+BNI training day and FLEX is now a Committee member
+Board Meeting
+BUG: Adding and Deleting Bordereaux Schedule causes Error
+BUG: Borderaux Chase Search Screen not detecting 1st row as To be chased
+CCC Broker Ledger Demo: 4th April 2008, 1100 - 1230
+CCC Broker Ledger Demo: 4th April 2008, 1100 - 1230
+CCC Broker Ledger Demo: 4th April 2008, 1100 - 1230
+CCC BUG SCM 60073690998
+CCC LC KEEP Meeting
+CCC Marketing Meeting
+CCC Meeting - Update on progress
+CCC Meeting - Update on progress
+CCC Meeting - Update on progress
+CCC Reporting Services Setup for XXXX Syndicates
+CCCs
+CCCs
+CCC -  Support - SCMS XXXX Claim Query
+CCC Syndicate XXXX Risk Line Correction (Class SWOP Work)
+CCC System Check-In/Testing - 2.2.3072.30366 (Minor Update Release)
+CCC System Check-In/Testing - 2.2.3072.30366 (Minor Update Release)
+CCC System Release - 22.2.3072.30366 (Minor Update Release)
+CCC System Release - 22.2.3072.30366 (Minor Update Release)
+CCC Technical Meeting
+CCC - Xchanging EDI USM messages update - test message loading for sXXXX/sXXXX
+CCC / YYY ZZZ SCMS Reports Analysis List Reports & Syndicate Relevance
+CCC - YYY ZZZ's Query On SCMS XXXX Extract For Elgar RI System.
+Check and debug USM Validation
+Check in latest V3 updates
+Checklist sheet for White Labellers when they sign up new client
+Check robustness of event system when adding new movements
+Check that databases on PRD have latest updates, ready for syncing to live
+Code Generator: In Progress Dialogs
+Comparator sometimes removes all white space between tokens
+Contra USM With Instalment/Treaty Causes Error - Primary Key Violation
+Create a Manual RI Policy  - Failed to save
+Daily Validation - Corporate Claim
+Debug XXXX Warehouse
+Determine handling of Treaty Statement
+Determine handling of Treaty Statement
+Enabling a grid cell for new rows when field access is read-only
+Ensure all SCM Search and SuperSearch parameters work
+Error viewer not working with nested forms (Versions 2 and 3)
+Fielding emails and calls re Sun Account Export
+Fighting with Visual Studio with Assembly Manifest error and Releasing Core
+Find Rack Space Provider for DR Use.
+Finish off Cash to Cash and Closing to Closing Matching
+Front end using incorrect calc when checking RI
+Get SP_USM_CONTRA_UNDO to work with new USM Structure
+Grid Column Sizing Issues Relating to V3 Speed Ups
+Grid Column Sizing Issues Relating to V3 Speed Ups
+HR Software Show
+Import YYY ZZZs Doc and Task XML files Into My Database.  Check Code Gen on Both Also.
+Improve Grid Cell Colouring Functionality - Additional
+Installing all software to develop proof of concept on Windows Phone 7
+Install new Dell laptop
+Investigate $3,000,000 gap and frame proposals to reconcile
+Investigate Adding SSL Layer Security To SQL Server
+Investigate Adding SSL Layer Security To SQL Server
+Investigate e-mail security and from address processing
+Investigate slow validation of RI when opening a claim card
+Investigate SQL Constraint Scripting
+Investigate XXXX raw data -- anything useful for tracking down accruals?
+ISO document review and meeting 26 Feb 2014
+ISO document review and meeting 26 Feb 2014
+Laptop housekeeping (tidying up old files)
+Laptop Upgrade
+LDEX message failure due to CCC power down over weekend
+Lead Underwriter changes
+Liaising with YYY ZZZ concerning Timescales
+Liaising with YYY ZZZ concerning Timescales
+LinkEX Bug for CCC: Monthly reporting not including newly created courses
+LinkEX Bug with calculations regarding stage code report and RAG
+LinkEX/LinkPQN download scripts not sending emails error for CCC and YYY ZZZ
+LinkEX Portal Development Discussion for Remote Hosting
+LinkEX Portal Development Discussion for Remote Hosting
+LinkEX Portal Development Discussion for Remote Hosting
+Link PQ with YYY ZZZ and YYY ZZZ University
+Lookup buttons not working in any form
+Lookup grid column validation not working properly
+Machine Swap
+Machine Swap
+Management Meeting
+Management Meeting (incl Travel)
+Management queries from directors
+Managerment meeting and company lunch
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ
+Meeting with YYY ZZZ concerning CCC Database system, internal discussion
+Meeting wtih YYY ZZZ from CCC - LinkEX portal Project
+MetaFilterSearchFields updates for version 2 SCMS
+Migrate files and settings to new laptop
+Multi Line Claims/New Movements With RI Amounts Show Incorrect RI Amount Figures In v2.
+Multi Line Claims/New Movements With RI Amounts Show Incorrect RI Amount Figures In v2.
+Need to identify data integrity error from ambiguous TSQL error message
+Negotiate test messages with Xchanging + resulting minor updates
+Organise and standardise SiP documentation
+Period Close Testing
+Preparation for XXXX progress meeting 
+Preparing and meeting CCC for possible joint ventures
+Preperation and attending ISO 9001 meeting on 4th Sept
+Progress discussion concerning LinkEX deployment
+Push Clarity DEV table structure changes to LIVE
+Release/Database management on CMSHQ1 and CMSDMZ
+Release SCMS Application To Live -- XXXX Synd
+RISK Copy - getting Linked Risks to copy too
+Risk.RiskStatus field access non unique after save.
+Risk.RiskStatus field access non unique after save.
+RTICSM Data Mart Support - Checking and Reporting Difs Between SIP and RITC Code Versions
+SCMS 1.10 Testing
+SCMS Daily Reports Show Blank First Page (Set For Parameters)
+SCMS Daily Reports Show Blank First Page (Set For Parameters)
+SCM Search with Event IS  returning no results
+Server Health  Monitor system - UAT
+Server Health  Monitor system - UAT
+Setting up RISK data for demo
+Setting up RISK data for demo
+SiP Board Meeting
+SiP Code Generator: Auto Regression Test Code
+SiP Code Generator: Auto Regression Test Code
+SiP Code Generator Stage 2 Validation - Check Grid Column Names Exist
+SiPL - Meeting with YYY ZZZ at RITC - Update Meeting with YYY ZZZ
+SIP Mail and Data Servers DNS changes because of Coreix Servercity merger
+SiP Management Meeting
+SiP Management Meeting
+SiP Strategy Meeting
+Solving Silverlight connection error
+Solving Silverlight connection error
+Sorting out Issues with Max Validation Errors Functionality
+Sort out old laptop
+Sort out ServerCity hosting agreement
+Specifying The New Affiliate Business Object To Hold CoverHolder Documents Against
+Support strategy for our white labellers
+Sync Risk Developments From Binder Management Dev To SCMS Dev
+Syndicate XXXX Explanation of EUR SettCCY USMs and Xchanging CCS (Currency Conversion Service)
+System Testing for Release on 19th May 2008
+Technical Consultation to CCC
+Testing CCC Demo
+Tracking and fix Risk bug reported by YYY ZZZ
+Triangles Build Error - XXXX 
+Triangles Build Error - XXXX 
+Trigger creation version 2
+TSM demo setup and testing
+USM Save - SP_USM_SAVE_TREATYSECTION not working
+v2.2. - XXXX Test System Setup and Release 
+WebSiteBuilder Release - April 2013
+XXXX's USM Splits need sorting out
+XXXX Test Claim 20012470999 - Split Events Figures Made Incorrect Following Validation
+XXXX USM RI Triangle figures wrong
+XXXX XLSior Proportional Extract - Bringing Back Too Many Rows
+XXXX XLSior Proportional Extract - Bringing Back Too Many Rows
+XXXX YYY ZZZ Period Close - Claim Data Tidy Up Exercise on Problem Claims With Multiple Currencies
+YouLink HR Testing current release
+YouLink HR white labeller report to help assess the future of YouLink HR.
+YYY ZZZ Plans Meeting
+YYY ZZZ Plans Meeting
+YYY ZZZ Plans Meeting
+YYY ZZZ XXXX Conv - August data conversion run
+CCC YouLink HR Setup - Web Site & Clients
+YouLink HR: Setup Financial Role and Security
+CCC Migration
+CCC -  Data Mart Support
+CCC DB Reporting Services Issue
+fixing network issues July 
+Management Meeting
+Release SCMS Application To Live -- XXXX Synd
+SiP Board Meeting
+YouLink HR: Correct 18 Incorrectly Converted Holiday Records
+YouLink HR: Annualised Amount To Take Start/End Dates Into Account
+YouLink Testing Absence Booking
+Adding Homeowners Property/Aviation as additional class of buisness and removing the Declaration one.
+CCC - Aiding Littlejohn audit for CCC (SCMS)
+CCC - Failure Connecting To SCMS Reported
+CCC Support - Aid XXXX Month-End Close
+CCC Support - Aid XXXX Month-End Close
+Create Generic Product Business Object
+Design and code Events Calender for CCC website.
+Desk Dividers Installation
+Desk Dividers Installation
+Desk Dividers Installation
+Early finish for company drinks
+Early finish for company drinks
+Early finish for company drinks
+Early finish for company drinks
+Early finish for company drinks
+FIL Code field access needs setting depending on LPSO Category
+Grid focus/colouring glitch
+LookupComboBox Not Sizing Correctly
+Organise file transfer system for Pro users.
+Preparing deployment of LinkPQN changes to YYY ZZZ
+Print Grid to take DataGridView to contain preserve column filtering - Fix Cancel button but still prints bug
+Problems With Container Control Wizard
+Release CCC System -(2.2.3142.26719)- CCC Test System Mini-Update Release
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Warehouse To Live -- XXXX Synd
+Release SCMS Warehouse To Live --XXXX Synd
+Setting up CCC_BinderManagement_DEMO database for Demo's
+SiP Code Generator: Release Management
+SIP-DEV2 SiP_DEV Backup Jobs
+SIP-DEV2 SiP_DEV Backup Jobs
+SIP-Dev SQL/SourceSafe setup for LinkPQ Developer Environment
+Staff Object - Getting Up And Running For Use
+Switch SiP Mail Access to secure POP3 and SMTP.
+Update CCC Coverholder Load Procedure To Cater For Updates
+Upgrading laptop with SQL 2008 R2 Instance
+v2 Risk Validation - Update/Insert To Premium Tables Fails On Certain Syndicates
+YYY ZZZ - XXXX Support - Sign Claims/Warehouse Data Discrepancie - Further Updates Request
+Backup EMail Server Not Running on SIPSQL002
+SCMS Review
+SCMS Review
+Check In SCMS and Technical Core v3
+YouLink HR: Mark Salary Types As Counting As Annual Salary
+YouLink HR: Mini Weekend Release (Catering for YYY ZZZ's Requests)
+Enhance Task Release Report
+E-HR Database Design
+Add auditing to REF_UWReferenceCorrection.
+Add Audit tab to UWR Corrections
+Lloyd's Leader and Slip Leader to appear on SCM Claim 
+Maybe Useful To Have Link On Risk History Grid To Open The Other Risk YOA
+SiPFrameworkTextBoxWithLabel Allow Label To Appear To The Left
+Daily Management Tasks - January 2011
+Spike To Test Microsoft Splitter Behaviour
+Add additional section information to Declaration
+Add Class codes to XXXX Warehouse Statistics
+Add Delete/Undelete Processing Into Code Generator
+Added code to calculate the Estimate Signing Down % on Line
+'AddLineCalculation: Cannot find relation 0' messages keep appearing in SCMS
+Add save meta data functionality to new grid
+Add validation checks for Signed% before making read only.
+Add validation checks for Signed% before making read only.
+Aiding User Issues/Close Process
+Allow Movement of KB Nodes within same parent
+Allow TableLayoutPanel column and row spans to be defined in Meta Data
+Allow TableLayoutPanel column and row spans to be defined in Meta Data
+As At Exchange Rates not always filtering properly
+BNI Meeting 07/07/10 and Meeting with YYY ZZZ
+BNI meeting (12/01/2011) and preparing for 10 minute presentation
+BNI meeting 26/10/11 and 1 to 1 meeting with CCC
+BNI meeting and 1 to 1 with YYY ZZZ
+BNI meeting and meeting with YYY ZZZ
+BNI meeting and showing YYY ZZZ our new CCC
+BNI meeting including 1 to 1 with YYY ZZZ and power group meeting
+BNI meetings, City Lunch and Kensington
+BNI visitors day meeting and Christmas Wine tasting
+Bringing YYY ZZZ up to speed with YouLink HR.
+Bug fixing on Notes Control
+Bug fix on staff contacts report for LinkEX for YYY ZZZ
+Bugs associated with Adding new Risk (Full and Minimum) - See plan
+Building Jonty's laptop
+Business development CCCe/ faraday
+Cannot save mulitple USM manual entrys on same LPSO Date
+Can save a risk with no deductions
+Can't save risk when a SectionLimit is deleted.
+CCCCCC meeting to discuss BMS
+CCCCCC meeting to discuss BMS
+CCC Country Administration
+CCC Demo
+CCC Demo
+CCC Demo
+CCC Demo
+CCC demo, set up and post demo feedback
+CCC meeting concerning Brochures
+CCC meeting concerning Brochures
+CCC - Message Forms
+CCC - Message Forms
+CCC - Message Load Failure
+CCC - Movt Data Mart Test Cases And Examples
+CCC Presentation
+CCC - SCMS System Demo
+CCC - SCMS System Demo
+CCC System Live Database Setup And Rollout To All Users
+CCC to CCC transition - info sent on SCMS & SCMS setup estimates To YYY ZZZ
+Change CCC logo on all SCMS reports
+Christmas Party Pre-Drinks & Travel
+Christmas Party Pre-Drinks & Travel
+Clean database of all un-used reference and META data
+Code Generator: Conditional Compilation
+Code Generator: Improve Automatic Non Key Data Transfer Mechanism
+Code Generator: When Adding A New Form The Controls Of The Existing One Transfer
+Code Gen Review and Questionnaire 
+Colouring problem on grid when a row's field access changes on the fly
+Colouring problem on grid when a row's field access changes on the fly
+Comparison Scripts SCMS Live and Snapshot DB Analysis
+Control Processing Missing And Duplicating Processing Calls
+Conversion Script for Synd XXXX
+Coventry University LinkEX demo number 2 and meeting other departments
+Create A Monthly Staff Performance Report
+Create a SiPFrameworkTableLayoutControl and hook into Code Generator
+Create LinkEX dedicated Web page for FLEX website
+Create RTF Converter Tool
+Create Test Plans For Coverholder and Audit Business Objects
+Create user friendly error message if wrong data is entered in Grid
+Daily Server Checks - Week 38
+Debug USM Treaty Section add/update
+Debug XXXX Test Warehouse
+Deleting User Off Diary Event Recipient List Causes Error
+Demo and set up to CCC
+Demo for NHS Confed on behalf of CCC
+Design label for SiP Wine.
+Developer Meeting
+Developer Meeting
+Developer Meeting
+Developer Meeting
+Developer Meeting
+DNN Gallery Module
+Document system - validating input
+e-HR Report Deployment Investigate Issues
+Encrypt All SP's Stored Procedure (with Backup Table)
+Event figures not splitting properly on some multi-currency, multi-line claims
+Event Search Form - Linked SCM grid.
+Financial breakdown
+Fixing Tag manager wizard lookup combo box bug
+Fix  Super Search Grouping
+Fix  Super Search Grouping
+Flagstone Meeting
+Flagstone Meeting
+Flex Mobile: Sale search to bring back Tariff description.
+Flex Mobile - Sales Search - Totals not display correctly when Part Fund amount allocated
+General Clarity Development
+Get Validations working from SCMS front end
+Grid gets confused over which rows to colour when scrolling
+GUS/CCC Demo
+GUS/CCC Demo
+Hide Away Non Risk Functionality Within SCMS via System Options
+HR Software Show
+Implement RI Super Search to enable viewing of (e.g.) Fac totals
+Implement RI Super Search to enable viewing of (e.g.) Fac totals
+Import syndicate XXXX's RI
+Install new Laptop with Binder Mgt software.
+Internal management discussion
+Interviewing at CCC
+Interviewing Candidates for Marketing Position at CCC
+Invalid Outstanding Total  (SP_GET_SPLIT)
+Invalid Outstanding Total  (SP_GET_SPLIT)
+Investigate System Beep Issue with Terminal Services 2008.
+ISO meeting and FLEX Board meeting.
+ISO meeting and FLEX Board meeting.
+LC Keep meeting and preparation
+LC Keep meeting and preparation
+LC Keep project meeting with CCC
+LC Keep project meeting with CCC
+LDEX Loader V2 Correct .dll's Requiring Check-in to Source Safe
+Learning C# + Transact SQL
+LinkEX Detailed Monthly Students report not showing N/A students
+LinkEX Monthly report bug with Special Fee courses
+LinkEx Portal Reviewing Specification
+LinkPQN progress meeting
+Link PQN - Software release
+Look into Multi-Cell workings and how it could work for new Content Functionality
+Management and Board Meeting - 13th Feb 2013
+Management Meetng for ISO Compliance
+Marketing Meeting
+Marketing Meeting with CCC 19/06/08
+Marketing Meeting with CCC 19/06/08
+Marketing Meeting with CCC 19/06/08
+Market research into LinkEX competitors and substitute processes
+Material from the HR software show
+Meeting with CCC and YYY ZZZ over LinkEX portal
+Meeting With IT Director @ CCC
+Meeting with XXXX user and YYY ZZZ/YYY ZZZ to establish timelines.
+Migrate RI Search to .NET 2 Version
+Movement sequencing still not right
+New Office Viewing
+New Office Viewing
+New Office Viewing
+New Office Viewing
+New Office Viewing
+New Reference table reqd for FIL country code
+New Website Technology research for FLEX (UK) Ltd
+Operational Maintenance
+Operational Maintenance
+Opticians 
+Payroll Business Solutions Ltd Meeting
+Period Close Need To Work With New SiP Loader Database
+Pictures for landing page
+Possible live syndicate on SCMS
+Preparation for Balanced Scorecard Meeting (plus Travel)
+Preparation for Balanced Scorecard Meeting (plus Travel)
+Problem With Template List Not Refreshing in KB
+Progress Meeting XXXX Conversion (05May2011)
+Progress Meeting XXXX Conversion (05May2011)
+RDC Demo to CCC
+Recalculated RI not cascading to net figure
+Re-convert XXXX DEV
+Reinstall YYY ZZZ's laptop for VS2005
+Reinstall YYY ZZZ's Test Laptop with Windows XP
+Release CCC System -2.2.3155.20335- CCC Test System Mini-Update Release
+Release SCMS Application To Live -- XXXX Synd
+Release SCMS Application To Live -- XXXX Synd
+Release Task System for YYY ZZZ at Home
+Remove SCMS Test Cases. Will Be Replaced With Unit Tests
+Research Network Scanning Tools
+Review of .NET 2 Conversion and New Grid Enhancements
+Review of .NET 2 Conversion and New Grid Enhancements
+Risk Data Capture Specification for CCC
+Risk Section/Risk Data correction Synd XXXX
+Rows missing from LORS Extract
+SBS Meeting
+SBS Meeting
+SCM and USM Message Summaries
+SCMS Manual Message Loads And Validation Runs - Until Licence Renewed
+SCMS Support: XXXX Live Missing Lines For Synd 734 Issue 
+Section Order Percent Query and application
+Section Order Percent Query and application
+Security Extension:improvements to documentation/deployment
+Set up a PC to test Visual Studio 2005 and SQL Server 2005
+Shellbourne Demo - System Preparation And Demo
+Shellbourne Demo - System Preparation And Demo
+SiP Admin Tasks - Transfer of Code From SourceSafe To TFS
+SiP Admin Tasks - Transfer of Code From SourceSafe To TFS
+SiP Admin Tasks - Transfer of Code From SourceSafe To TFS
+SiP - CCC Working Practices Meeting
+SiP - CCC Working Practices Meeting
+SiP - CCC Working Practices Meeting
+SIP Comparator - Get working and tested for use with CCC XXXX,XXXX Test To Live Update.
+SIPEXC002 Physical Installation In Rack
+SIP Extranet Local VB to .net C# conversion
+SIP Extranet Local VB to .net C# conversion
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+SiP Staff Meeting - Discussing Progress
+Sorting Out Office for Various Sundry Equipment
+Sort out alignment issues with Date Pickers on Text Boxes.
+Sort out auto patching where appropriate
+Synching up changes to XXXX System using comparator
+Synchronise Binder Management, PRD and local
+Synchronising Meta Data to get Version 2 XXXX working
+Sync .Net v2 Local Copy of RI/SCM/USM Search Screens To Latest Code
+Synd XXXX Quota Share Errors
+Test Warehouse: Figures Books slightly out
+THE INTERNAL BUSINESS PERSPECTIVE of the BALANCE SCORECARD
+The Xlsior Export (Proportional) is not populating the Event/Sub event fields
+Tidy metadata, check and debug basic functionality on new DEV
+Tidy Web Framework and Web Clarity Code and Check Into Sourcesafe 
+Time in Lieu
+Time in Lieu
+UGD - CCC Consultancy
+Updating XXXXDEV with the Latest RISK Structure
+USM Add Diary Event Causes Error If User Not In RoleUsersUSM - See Plan
+USM V3 Contra Control
+USM V3 Contra Control
+USM Validation correcting UWRefs that are already corrected
+V3 Code Gen Issues With Regards to Table Ordering
+V3 RichTextBox not keeping text formatting correctly
+Version 2 - No 'Exchange Rate History Data' in Reference tables
+Version 2 warehouse Index problem causing the USM build to run very slowly
+Visual Source Safe Tasks -  October
+WebSiteBuilder Training
+Weekly Developer Meeting 23rd July 2008 - Work While YYY ZZZ Is Away
+Weekly Developer Meeting 23rd July 2008 - Work While YYY ZZZ Is Away
+Weekly Developer Meeting 23rd July 2008 - Work While YYY ZZZ Is Away
+Weekly Developer Meeting 23rd July 2008 - Work While YYY ZZZ Is Away
+Weekly Developer Meeting 23rd July 2008 - Work While YYY ZZZ Is Away
+Weekly Developer Meeting 27th Feb 2008 - General Catch Up
+Weekly Developer Meeting 27th Feb 2008 - General Catch Up
+Weekly Developer Meeting 27th Feb 2008 - General Catch Up
+Weekly Developer Meeting 27th Feb 2008 - General Catch Up
+Weekly Developer Meeting 27th Feb 2008 - General Catch Up
+Weekly Developer Meeting 2nd April 2008 - Review of Current Projects
+Weekly Developer Meeting 2nd April 2008 - Review of Current Projects
+Weekly Developer Meeting 2nd April 2008 - Review of Current Projects
+Weekly Developer Meeting 2nd April 2008 - Review of Current Projects
+Weekly Developer Meeting 2nd April 2008 - Review of Current Projects
+Workflow research
+Write code to undo Position tables and check effects
+Write new PIX config file for use in Stratford data centre.
+XXXX Mistakenly loaded data needs correcting
+XXXX Mistakenly loaded data needs correcting
+XXXX Re-entering 1992 splits for 1993 yoa USM's - omited previously due to equitas cleanup
+YYY ZZZ - New User Setup Issue
+YYY ZZZ Syndicate XXXX - INTECH --> IRIS Populate UPRIREP Table
+YYY ZZZ XXXX alliance report & Machine Date Formatting error
+Arrange Microsoft Partner Program References
+Arrange Microsoft Partner Program References
+Daily Management Tasks - December 2010
+Daily Management Tasks November 2006
+Issue With SIPEXC001 - Check Messages Are Still Loading 
+Issue With SIPEXC001 - Check Messages Are Still Loading 
+Convert Task System Database To .NET 2 Compliant Version and SQL 2005
+LinkEx Portal Standard HTTP Binding Silverlight / WCF Spike for External Hosting
+YouLink HR: System Enhancements July 2012
+CCCs Security Issues - Raised By One Of Their Staff
+Rates of exchange issue XXXX rates used not taken from CCC issued list but from SCM Msg
+Meeting re. Warehouse processes
+Meeting re. Warehouse processes
+Meeting re. Warehouse processes
+Flex Mobile - Latest Developments Check-In/ Release Arrangements and Notes
+Flex Mobile - Latest Developments Check-In/ Release Arrangements and Notes
+NUnit Testing
+Copy Country
+Copy Country
+Madison Demonstration
+Catchup and clean up
+CCC course and preperation
+CCC Data Driven Menu System
+CCC - Data Mart - Supporting queries raised by PD on Movt Extract.
+CCC World Page Development
+Check Warehouse Syndicate Specific Procedures
+Clarity: Allow Work Items To Be Auto-Generated From Template Work Items
+Crash on attempting to open Risk from SCM when Risk Line does not exist
+Editing Declaration values does not update Binder calcs
+Event serch crashing - XXXX Testing
+HQ2 Server MADataCopy Program Error Issue Re-Surfaced
+Introducing YYY ZZZ to SCMS
+Investigate Automated Notifications for Warehouse Builds.
+Investigate Performance Of Nested Controls plus Misc Bug fixes
+Link Non-Fac RI
+Making the UWR Correction Save work + editing form to reflect new table structure
+Making the UWR Correction Save work + editing form to reflect new table structure
+Marketing Material and Research for White Labellers
+Missing Key Press Functionality in Listbox on Search Control
+Move Up XXXX Dev Warehouse To Production Test Environment - Test Build
+Proportional Accruals for Figures Book
+RI changes not saving XXXX
+RI changes not saving XXXX
+Right click on Grid also sorts the column too!
+Risk Entry: Add Fields TRUST FUND and FIL CODE
+Risk History Screen Displays On Dev System But Not On Live System
+SCM Entry: Split Add - Event Code Entry.
+SCM RI to be filtered per Line
+SCMS Support: XXXX SCMS USM Super Search Bug Reported
+SCMS Support: XXXX SCMS USM Super Search Bug Reported
+SiPFrameworkPanel Still Displaying Scrollbars Incorrectly
+Sort out ToolTip functionality for code gen controls
+System Exit Fails to Cancel
+System TESTING after new core changes
+Track down memory leak sources in Search Control
+Triangulation : Incurred calculation appears wrong
+Update Figures Book procedures to take account of new joint currencies
+v2.2 Test System - SCM Claim Movements Report Error
+V3 - Allow multiple Search Forms per Business Object
+Validation not working when field has changed (on Ref lookup cells)
+viewing doc via preview tab then deleting doc and reclicking preview crashes app and reboots pc
+XXXX SCM Claim Issue On Adding Manual Movement
+XXXX USM Split values
+YouLink HR: Create Textual Definitions of Security Actions for the Security Wizard
+YouLink HR: New Employee Failing To Save Correctly
+YouLinkHR: Probation Ending Report
+YouLink HR: Standard/Enhanced Functionality Restrictions
+Manuallly entered RI was causing the system to create manual amounts
+Manuallly entered RI was causing the system to create manual amounts
+Manuallly entered RI was causing the system to create manual amounts
+Build Licence Server Base Project Structure
+Firefox YouLink HR Financial Issue
+YouLink HR: Role Reference Manager
+SiP.Cloud Put 2TB Backup Drive In Place So Content Is Secure
+YouLink HR: YYY ZZZ Data Conversion Analysis (Non Document Fields)
+Investigate Methods To Speed Up Fetching Data On Application StartUp
+SCM Line Eventing
+SCM Line Eventing
+Staff Manager: Test sending Full HTML EMails with Graphics
+YouLink HR: Investigate Non 12 Month Holiday Booking
+Maintenance: Weekly Web Server Operations Check
+Reviewing Existing Systems Before Proposing Demo To CCC
+Reviewing Existing Systems Before Proposing Demo To CCC
+Add Underwriter's information to Ref data, add extra Synd No
+Allow date format of MM/yy in Grid
+Allow manual entry of Treaty details
+Arranging New Equipment In YYY ZZZ Office
+Attempting to fix broken Corsair USB Thumb Drive
+Attempting to fix broken Corsair USB Thumb Drive
+Attending SupplyLondon Workshop - Implementing a Quality Management System
+Attending SupplyLondon Workshop - Winning New Business
+BMS Risk Open Error On User Machines
+BMS Risk Open Error On User Machines
+BNI meeting on 7/04/10 and 1-2-1 with YYY ZZZ.
+Bordereau Quick Entry and Settlement Days Of Grace feature
+CCC Bug Fix - mart extract for movements - missing movements in months
+CCC Demo Including Travel Time
+CCC Demo Including Travel Time
+CCC - Request To Close Specified Claims
+CCC Support - Missing Dsign Transactions For Two Wsett Transactions Loaded
+CCC Support - Missing Dsign Transactions For Two Wsett Transactions Loaded
+CCC train a trainer day
+CCC - Weekly Movements Report Issue Reported
+CCNA Study For Exam Part 3
+Check if risk system has been populated correctly
+Claim load still not as fast as we would like on Live (SQL part)
+Continued to add Risk, Section Limit, Schedule and Line to New Declaration Business Type
+Contra USM Item Errors In Related SP
+Convert And Test Code Base on .NET 3.5 / Visual Studio 2008
+Convert And Test Code Base on .NET 3.5 / Visual Studio 2008
+Create Batch Stored Procedure to upload Risk Bordereau if missing
+Create BMS Task Status Report for CMS Meetings
+Create Mobile Phone POS Accessory Business Object
+Data Migration To Cloud
+Decided NOT TO TENDER - Writing the CCC Tender for Student Number Planning Database
+Deploying Silverlight component with WCF service attached
+Document Issue in Task System
+Document Issue in Task System
+Document system having validation error after a new doc added
+Document system having validation error after a new doc added
+Embed ScoreCard in Staff Object For Appraisals/Reviews
+Estimating Time for additional Data fields for RDC (see attached docs)
+Estimating Time for additional Data fields for RDC (see attached docs)
+Extend Claim Super Search to cope with ranges of Movement dates
+Flex mobile - Discounted Fund Option Bug
+Getting up and running with the DAD system
+Grid sorting issues
+Hook Combo Link Filtering From V3 to V2
+Implement Auto Search Capability on First Log On
+Implement Auto Search Capability on First Log On
+Implement test system for Warehouse
+Install new laptop for YYY ZZZ
+Investigate effect of A+S changes in light of presentation sent by YYY ZZZ
+Investigating Micrsoft Forefront Threat M/G Gateway 2010 
+ISO Customer satisfaction documentation and Customer related processes
+LinkEduSoft Video channel on YouTube
+LinkPQN Progress Meeting
+Live CCC machine re-build due to power down last night that corrupted my hard disk
+Loading the XXXX XXXX Snapshot messages - Edit SQL into chunks to allow SQL Server to handle size of file
+Local Machine Sql Server Management
+Marketing Meeting
+Move Up XXXX Dev Warehouse To Production Test Environment - Test Build
+New USM Daily Messages Report
+On change of line event, old event needs to be zeroed
+Prep for Enfield visit
+Problems with Link System in Latest V3
+Reinstall Cube PC
+Release current TEST to LIVE
+Releasing current DEV system onto TEST
+Remove Redundant SiPDataView Functionality
+Reporting services not working on PC, need to reconfigure for Derby meeting
+Researching xml serialization
+Research Server Updates
+Risk Security - Syndicate Visibility Controlled By Client / User Level
+Risk Security - Syndicate Visibility Controlled By Client / User Level
+Risk Status Management
+Save fails when YYY ZZZ tries to add a new event to the split - 40513531195
+SCMS Client Licence Install and Test
+Setup Clarity Reports on SIP-DEV
+Setup Clarity Reports on SIP-DEV
+SQL Server Problems with Network Shares and HR Data Service
+System hangs when flick between Both/Gross Figures after a row sort on certain SCMs (potential core issue)
+Testing Office VPN
+Top row of grid remains fully selected even when another row is active after peforming certain actions
