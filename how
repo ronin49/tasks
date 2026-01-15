@@ -26,3 +26,64 @@
 array([1])
 >>> 
 
+
+
+
+
+===========================================================================================
+with open('easy', 'r') as file:
+    easy = file.readlines()
+    
+with open('medium', 'r') as file:
+    medium = file.readlines()
+    
+with open('hard', 'r') as file:
+    hard = file.readlines()
+
+all = []
+all = easy + medium + hard
+
+from sklearn.linear_model import RidgeClassifier
+clf = RidgeClassifier(tol=1e-2, solver="sparse_cg")
+clf.fit(all,categories)
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(all)
+clf.fit(X,categories)
+    
+def f(foo):
+    test=[foo]
+    X_test = vectorizer.transform(test)
+    print(clf.predict(X_test))
+
+f('asdasdkl')
+f('System User Setup')
+f('Risk Conversion')
+f('warning')
+f('saldkjlaksdl warning asdsadlkdasl')
+f('Staff Meeting')
+f('meeting')
+f('laptop')
+f('Laptop')
+f('Investigation')
+f('investigation')
+===================================================================
+#CONFUSION MATRIX
+#should be biggest on main diagonal
+
+
+import matplotlib.pyplot as plt
+from sklearn.metrics import ConfusionMatrixDisplay
+
+ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [2,4,3,4,6], ax=ax)
+fig, ax = plt.subplots(figsize=(10, 5))
+ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [2,4,3,4,6], ax=ax)
+plt.savefig("asdkas.png")
+ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [1,2,3,4,5], ax=ax)
+plt.savefig("asdkas.png")
+ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [1,2,3,4,5], ax=ax)
+plt.savefig("asdkas.png")
+fig, ax = plt.subplots(figsize=(10, 5))
+ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [1,2,3,4,5], ax=ax)
+plt.savefig("asdkas.png")
