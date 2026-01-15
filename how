@@ -87,3 +87,21 @@ plt.savefig("asdkas.png")
 fig, ax = plt.subplots(figsize=(10, 5))
 ConfusionMatrixDisplay.from_predictions([1,2,3,4,5], [1,2,3,4,5], ax=ax)
 plt.savefig("asdkas.png")
+
+
+
+
+
+
+============================
+
+
+import random
+
+# Sample array
+arr = [1, 2, 3, 4, 5]
+
+# Shuffle the array in place
+random.shuffle(arr)
+
+print(arr)
